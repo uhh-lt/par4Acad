@@ -18,6 +18,7 @@ class Non_Academic:
     def __init__(self, amazon_review, serialize_path):
         self.AMAZON_REVIEW = amazon_review
         self.SERIALIZE = serialize_path
+        self.unigrams_ctr = Counter()
         self.bigrams_ctr = Counter()
         self.trigrams_ctr = Counter()
         self.quadgrams_ctr = Counter()
@@ -62,6 +63,14 @@ class Non_Academic:
         es_ngrams = ngrams(tokenized, n)
         return list(es_ngrams)
 
+    def update_unigram_counter(self, unigram):
+        """Update the frequency counter
+        :param unigram: List of unigrams
+        :type unigram: list
+        """
+        for u in unigram:
+            self.unigrams_ctr[u] += 1
+
     def update_bigram_counter(self, bigram):
         """Update the frequency counter
         :param bigram: List of bigrams
@@ -86,8 +95,10 @@ class Non_Academic:
         for q in quadgram:
             self.quadgrams_ctr[q] += 1
 
-    def compute_ngrams(self, pickle_filename_bigrams='non_academic_bigrams.pkl', pickle_filename_trigrams='non_academic_trigrams.pkl', pickle_filename_quadgrams='non_academic_quadgrams.pkl'):
+    def compute_ngrams(self, pickle_filename_unigrams='non_academic_unigrams.pkl', pickle_filename_bigrams='non_academic_bigrams.pkl', pickle_filename_trigrams='non_academic_trigrams.pkl', pickle_filename_quadgrams='non_academic_quadgrams.pkl'):
         """Compute the n-grams from the corpus
+        :param pickle_filename_unigrams: File name for the non academic unigrams counter pickle file
+        :type pickle_filename_unigrams: str
         :param pickle_filename_bigrams: File name for the non academic bigrams counter pickle file
         :type pickle_filename_bigrams: str
         :param pickle_filename_trigrams: File name for the non academic trigrams counter pickle file
@@ -113,7 +124,10 @@ class Non_Academic:
 
         for item in review_texts.iteritems():
             content = item[1]
-            content = self.clean_content(content, 2)
+            content = self.clean_content(content)
+
+            unigrams = self.get_ngram(content, 1)
+            self.update_unigram_counter(unigrams)
 
             bigrams = self.get_ngram(content, 2)
             self.update_bigram_counter(bigrams)
@@ -133,8 +147,10 @@ class Non_Academic:
         with open(os.path.join(self.SERIALIZE, pickle_filename_quadgrams), 'wb') as f:
             pickle.dump(self.quadgrams_ctr, f)
 
-    def load_ngram_ctrs(self, pickle_filename_bigrams='non academic_bigrams.pkl', pickle_filename_trigrams='non academic_trigrams.pkl', pickle_filename_quadgrams='non academic_quadgrams.pkl'):
+    def load_ngram_ctrs(self, pickle_filename_unigrams='non_academic_unigrams.pkl', pickle_filename_bigrams='non academic_bigrams.pkl', pickle_filename_trigrams='non academic_trigrams.pkl', pickle_filename_quadgrams='non academic_quadgrams.pkl'):
         """Loads the n-grams counters from the pickle files
+        :param pickle_filename_unigrams: File name for the non academic unigrams counter pickle file
+        :type pickle_filename_unigrams: str
         :param pickle_filename_bigrams: File name for the non academic bigrams counter pickle file
         :type pickle_filename_bigrams: str
         :param pickle_filename_trigrams: File name for the non academic trigrams counter pickle file
