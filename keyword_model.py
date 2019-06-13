@@ -9,6 +9,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse import coo_matrix
 
 class Keyword:
@@ -85,57 +86,18 @@ class Keyword:
         with open(os.path.join(self.SERIALIZE, pickle_filename_file_order), 'rb') as f:
             self.file_order = pickle.load(f)
 
-    def compute_tfidf(self, top_n=10, pickle_filename_keywords='tf-idf_keywords(1,4).pkl', max_df=0.8, max_features=10000, ngram_range=(1, 4), smooth_idf=True, use_idf=True):
+    def compute_tfidf(self, top_n=3014, pickle_filename_keywords='tf-idf_keywords(1,4).pkl', ngram_range=(1, 4)):
         """ Compute the TF-IDF score to estimate the key phrases in the document. The number of entries in the COCA list is 3015.
-        :param top_n: Number of keyphrases to be extracted
+        :param top_n: Number of keyphrases to be extracted. Default = 3015 (the number of entries in the COCA list).
         :type top_n:  int
         :param pickle_filename_keywords: File name for the keywords pickle file - default 'tf-idf_keywords(1,4).pkl'
         :type pickle_filename_keywords: str
-        :param max_df: Hyper parameter for CountVectorizer
-        :type max_df: float
-        :param max_features: Hyper paramter for CountVectorizer
-        :type max_features: int
-        :param ngram_range: Range of ngrams to consider. Hyper parameter of CountVectorizer
+        :param ngram_range: Range of ngrams to consider. Hyper parameter of TfidfVectorizer
         :type ngram_range: tuple
-        :param smooth_idf: Hyper parameter of TfidfTransformer
-        :type smooth_idf: bool
-        :param use_idf: Hyper parameter of TfidfTransformer
-        :type use_idf: bool
         """
-        cv = CountVectorizer(max_df, max_features, ngram_range)
-        X = cv.fit_transform(self.corpus)
-
-        def sort_coo(coo_matrix):
-            tuples = zip(coo_matrix.col, coo_matrix.data)
-            return sorted(tuples, key=lambda x: (x[1], x[0]), reverse=True)
-
-        def extract_topn_from_vector(feature_names, sorted_items, topn):
-            sorted_items = sorted_items[:topn]
-            score_vals = []
-            feature_vals = []
-            
-            for idx, score in sorted_items:
-                score_vals.append(round(score, 3))
-                feature_vals.append(feature_names[idx])
-            
-            results = {}
-            for idx in range(len(feature_vals)):
-                results[feature_vals[idx]] = score_vals[idx]
-            return results
-
-
-        tfidf_transformer = TfidfTransformer(smooth_idf=smooth_idf, use_idf=use_idf)
-        tfidf_transformer.fit(X)
-
-        feature_names = cv.get_feature_names()
-
-        for i in range(len(self.corpus)):
-            file_path = self.file_order[i]
-            tfidf_vector = tfidf_transformer.transform(cv.transform([self.corpus[i]]))
-            sorted_items = sort_coo(tfidf_vector.tocoo())
-            keywords = extract_topn_from_vector(feature_names, sorted_items, top_n)
-            self.tfidf_keywords_list.append((file_path, keywords))
-
+        vectorizer = TfidfVectorizer(ngram_range=ngram_range, max_features=top_n)
+        X = vectorizer.fit_transform(self.corpus)
+        self.tfidf_keywords_list = vectorizer.get_feature_names()
 
         with open(os.path.join(self.SERIALIZE, pickle_filename_keywords), 'wb') as f:
             pickle.dump(self.tfidf_keywords_list, f)
@@ -184,4 +146,3 @@ if __name__ == '__main__':
     model.build_academic_corpus()
     model.load_corpus_and_file_order()
     model.compute_tfidf()
-    model.load_tfidf_keywords()

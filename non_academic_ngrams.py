@@ -138,6 +138,9 @@ class Non_Academic:
             quadgrams = self.get_ngram(content, 4)
             self.update_quadgram_counter(quadgrams)
 
+        with open(os.path.join(self.SERIALIZE, pickle_filename_unigrams), 'wb') as f:
+            pickle.dump(self.unigrams_ctr, f)
+
         with open(os.path.join(self.SERIALIZE, pickle_filename_bigrams), 'wb') as f:
             pickle.dump(self.bigrams_ctr, f)
 
@@ -147,7 +150,7 @@ class Non_Academic:
         with open(os.path.join(self.SERIALIZE, pickle_filename_quadgrams), 'wb') as f:
             pickle.dump(self.quadgrams_ctr, f)
 
-    def load_ngram_ctrs(self, pickle_filename_unigrams='non_academic_unigrams.pkl', pickle_filename_bigrams='non academic_bigrams.pkl', pickle_filename_trigrams='non academic_trigrams.pkl', pickle_filename_quadgrams='non academic_quadgrams.pkl'):
+    def load_ngram_ctrs(self, pickle_filename_unigrams='non_academic_unigrams.pkl', pickle_filename_bigrams='non_academic_bigrams.pkl', pickle_filename_trigrams='non_academic_trigrams.pkl', pickle_filename_quadgrams='non_academic_quadgrams.pkl'):
         """Loads the n-grams counters from the pickle files
         :param pickle_filename_unigrams: File name for the non academic unigrams counter pickle file
         :type pickle_filename_unigrams: str
@@ -158,13 +161,16 @@ class Non_Academic:
         :param pickle_filename_quadgrams: File name for the non academic quadgrams counter pickle file
         :type pickle_filename_quadgrams: str
         """
+        with open(os.path.join(self.SERIALIZE, pickle_filename_unigrams), 'rb') as f:
+            self.unigrams_ctr = pickle.load(f)
+
         with open(os.path.join(self.SERIALIZE, pickle_filename_bigrams), 'rb') as f:
             self.bigrams_ctr = pickle.load(f)
 
         with open(os.path.join(self.SERIALIZE, pickle_filename_trigrams), 'rb') as f:
             self.trigrams_ctr = pickle.load(f)
 
-        with open(os.path.join(self.SERIALIZE, pickle.pickle_filename_quadgrams), 'rb') as f:
+        with open(os.path.join(self.SERIALIZE, pickle_filename_quadgrams), 'rb') as f:
             self.quadgrams_ctr = pickle.load(f)
 
 if __name__ == '__main__':

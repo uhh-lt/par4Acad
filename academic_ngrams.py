@@ -147,7 +147,7 @@ class Academic:
         :type pickle_filename_quadgrams: str
         """
         with open(os.path.join(self.SERIALIZE, pickle_filename_unigrams), 'rb') as f:
-            pickle.dump(self.unigrams_ctr, f)
+            self.unigrams_ctr = pickle.load(f)
 
         with open(os.path.join(self.SERIALIZE, pickle_filename_bigrams), 'rb') as f:
             self.bigrams_ctr = pickle.load(f)
@@ -155,7 +155,7 @@ class Academic:
         with open(os.path.join(self.SERIALIZE, pickle_filename_trigrams), 'rb') as f:
             self.trigrams_ctr = pickle.load(f)
 
-        with open(os.path.join(self.SERIALIZE, pickle.pickle_filename_quadgrams), 'rb') as f:
+        with open(os.path.join(self.SERIALIZE, pickle_filename_quadgrams), 'rb') as f:
             self.quadgrams_ctr = pickle.load(f)
         
 
@@ -188,4 +188,6 @@ if __name__ == '__main__':
         prep_academic_corpus(args.raw_academic_corpus, args.text_academic_corpus)
 
     academic = Academic(acl_path=args.text_academic_corpus, serialize_path=args.serialize_output)
-    academic.compute_ngrams()
+    # academic.compute_ngrams()
+    academic.load_ngram_ctrs()
+    print(academic.quadgrams_ctr)
