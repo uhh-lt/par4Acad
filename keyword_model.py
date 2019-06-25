@@ -22,7 +22,7 @@ class Keyword:
         self.tfidf_keywords_list = list()
         self.structure_keywords_list = list()
 
-    def clean_content(self, content, remove_stopwords=False, lemmatize_words=True):
+    def clean_content(self, content, remove_stopwords=False, lemmatize_words=True, remove_num=True):
         """Clean the dataset - remove stop words, lemmatize the word tokens
         :param content: The string that needs to be cleaned
         :type content: str
@@ -47,6 +47,11 @@ class Keyword:
             lem = WordNetLemmatizer()
             text = [lem.lemmatize(word) for word in word_tokens if word not in stop_words]
 
+        if(not lemmatize_words and not remove_stopwords):
+            text = word_tokens
+
+        if(remove_num): # Remove numbers
+            text = [word for word in word_tokens if not word.isdigit()]
         content = " ".join(text)
         return content
 
@@ -63,7 +68,7 @@ class Keyword:
                 if(os.path.isfile(file_path)):
                     with open(file_path, 'r') as f:
                         content = f.read()
-                        content = self.clean_content(content)
+                        content = self.clean_content(content, lemmatize_words=False)
                         self.file_order.append(file_path)
                         self.corpus.append(content)
         
@@ -86,7 +91,7 @@ class Keyword:
         with open(os.path.join(self.SERIALIZE, pickle_filename_file_order), 'rb') as f:
             self.file_order = pickle.load(f)
 
-    def compute_tfidf(self, top_n=3014, pickle_filename_keywords='tf-idf_keywords(1,4).pkl', ngram_range=(1, 4)):
+    def compute_tfidf(self, top_n=3015, pickle_filename_keywords='tf-idf_keywords(1,4).pkl', ngram_range=(1, 4)):
         """ Compute the TF-IDF score to estimate the key phrases in the document. The number of entries in the COCA list is 3015.
         :param top_n: Number of keyphrases to be extracted. Default = 3015 (the number of entries in the COCA list).
         :type top_n:  int
