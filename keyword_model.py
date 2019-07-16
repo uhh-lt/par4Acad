@@ -31,18 +31,18 @@ class Keyword:
         :param lemmatize_words: default True
         :type lemmatize_words:  bool
         """
-        content = " ".join(re.findall(r"[a-zA-Z0-9]+", content)) # Remove special characters 
+        content = " ".join(re.findall(r"[a-zA-Z0-9]+", content)) # Remove special characters
 
         content = content.lower() # Lower case
-       
+
         if(remove_stopwords):
             stop_words = set(stopwords.words('english')) # Remove stop words
         word_tokens = word_tokenize(content)
-        
+
         if(lemmatize_words and not remove_stopwords):
             lem = WordNetLemmatizer()
             text = [lem.lemmatize(word) for word in word_tokens]
-        
+
         if(lemmatize_words and remove_stopwords):
             lem = WordNetLemmatizer()
             text = [lem.lemmatize(word) for word in word_tokens if word not in stop_words]
@@ -71,13 +71,13 @@ class Keyword:
                         content = self.clean_content(content, lemmatize_words=False)
                         self.file_order.append(file_path)
                         self.corpus.append(content)
-        
+
         with open(os.path.join(self.SERIALIZE, pickle_filename_corpus), 'wb') as f:
             pickle.dump(self.corpus, f)
 
         with open(os.path.join(self.SERIALIZE, pickle_filename_file_order), 'wb') as f:
             pickle.dump(self.file_order, f)
-        
+
     def load_corpus_and_file_order(self, pickle_filename_corpus='corpus.pkl', pickle_filename_file_order='file_order.pkl'):
         """Load the corpus and file-order data structure from the pickle file
         :param pickle_filename_corpus: File name for the corpus pickle file - default 'corpus.pkl'
@@ -118,6 +118,12 @@ class Keyword:
 
 
 def prep_academic_corpus(raw_academic_corpus, text_academic_corpus):
+    """Extracts the text portion from the tar XML file of the ACL anthology corpus.
+    :param raw_academic_corpus: base directory name of the tar file
+    :type pickle_filename_bigrams: str
+    :param pickle_filename_trigrams: File name for the output - text portion the XML files
+    :type pickle_filename_quadgrams: str
+    """
     for f in os.listdir(raw_academic_corpus):
         tar = tarfile.open(raw_academic_corpus+f, 'r:gz')
         for member in tar.getmembers():
