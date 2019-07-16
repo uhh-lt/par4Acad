@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 from nltk.util import ngrams
-from nltk.corpus import stopwords 
+from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import RegexpTokenizer
@@ -32,18 +32,18 @@ class Academic:
         :param lemmatize_words: default True
         :type lemmatize_words:  bool
         """
-        content = " ".join(re.findall(r"[a-zA-Z0-9]+", content)) # Remove special characters 
+        content = " ".join(re.findall(r"[a-zA-Z0-9]+", content)) # Remove special characters
 
         content = content.lower() # Lower case
-       
+
         if(remove_stopwords):
             stop_words = set(stopwords.words('english')) # Remove stop words
         word_tokens = word_tokenize(content)
-        
+
         if(lemmatize_words and not remove_stopwords):
             lem = WordNetLemmatizer()
             text = [lem.lemmatize(word) for word in word_tokens]
-        
+
         if(lemmatize_words and remove_stopwords):
             lem = WordNetLemmatizer()
             text = [lem.lemmatize(word) for word in word_tokens if word not in stop_words]
@@ -52,7 +52,7 @@ class Academic:
         return content
 
     def get_ngram(self, content, n):
-        """Compute the n-grams using NLTK 
+        """Compute the n-grams using NLTK
         :param content: The string from which the n grams have to be computed
         :type content: str
         :param n: Specify whether 2, 3, 4 gram to be computed
@@ -124,7 +124,7 @@ class Academic:
 
                         quadgrams = self.get_ngram(content, 4)
                         self.update_quadgram_counter(quadgrams)
-        
+
         with open(os.path.join(self.SERIALIZE, pickle_filename_unigrams), 'wb') as f:
             pickle.dump(self.unigrams_ctr, f)
 
@@ -157,9 +157,15 @@ class Academic:
 
         with open(os.path.join(self.SERIALIZE, pickle_filename_quadgrams), 'rb') as f:
             self.quadgrams_ctr = pickle.load(f)
-        
+
 
 def prep_academic_corpus(raw_academic_corpus, text_academic_corpus):
+    """Extracts the text portion from the tar XML file of the ACL anthology corpus.
+    :param raw_academic_corpus: base directory name of the tar file
+    :type pickle_filename_bigrams: str
+    :param pickle_filename_trigrams: File name for the output - text portion the XML files
+    :type pickle_filename_quadgrams: str
+    """
     for f in os.listdir(raw_academic_corpus):
         tar = tarfile.open(raw_academic_corpus+f, 'r:gz')
         for member in tar.getmembers():
@@ -188,6 +194,5 @@ if __name__ == '__main__':
         prep_academic_corpus(args.raw_academic_corpus, args.text_academic_corpus)
 
     academic = Academic(acl_path=args.text_academic_corpus, serialize_path=args.serialize_output)
-    # academic.compute_ngrams()
-    academic.load_ngram_ctrs()
-    print(academic.quadgrams_ctr)
+    academic.compute_ngrams()
+    # academic.load_ngram_ctrs()
