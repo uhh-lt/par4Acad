@@ -27,3 +27,25 @@ usage: keyword_model.py [-h] [--raw_academic_corpus RAW_ACADEMIC_CORPUS]
                         --serialize_output SERIALIZE_OUTPUT
 ```
 This would compile the keyword list based on the COCA criteria - retain those phrases that occur at least 50% more frequently in the academic portion of the corpora than would otherwise be expected. In other words, the ratio of the academic frequency of a term to it is non-academic frequency should be 1.50 or higher.
+
+## Dataset for Informal Word Identification (IWI) and Paraphrasing Components
+
+Wed derive our dataset from a lexical substitution dataset called Concepts In Context ([CoInCo](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/coinco.html)). The CoInCo dataset is an All-Words lexical substitution dataset, where all the words that could be substituted are manually annotated. A total of 1,608 train and 866 test sentences are compiled out of 2,474 sentenecs from the CoInCo dataset. 
+
+We automatically generated an IWI dataset as follows. For each non-academic target word, we determine if the substitution candidate includes atleast one academic word. If so, it is labelled as **informal**, otherwise it is labelled as **formal**. All academic target words and all words without substitution candidates are labelled **formal**.
+
+To generate **non-academic** to **academic** word pairs for paraphrasing we have included only those word pairs that where 1) the target word is non-academic, 2) the substitution candidate is academic, 3) the target word has higher word frequency than the substitute candidate in our academic resources. The dataset is prepared with 4 candidates for each informal target, where 2 candidates are academic and 2 candidates are non-academic. When we do not have appropriate candidates we extract further candidates from WordNet and PPDB.
+
+## Informal Word Identification (IWI) Model
+
+We have trained a few [classfiers](IWI.ipynb) provided by scikit-learn with the following features:
+
+1. **Word Frequency** : We use the word frequencies 1) in [Beatiful Data](https://norvig.com/ngrams/) 2) in [COCA](https://www.english-corpora.org/coca/) general list 3) in [ACL anthology](https://acl-arc.comp.nus.edu.sg/) corpus.
+
+2. **Word Embedding** : We have used [GloVe](https://nlp.stanford.edu/projects/glove/) to compute the cosine similarity between the word and the sentence. We also explore the option of using Euclidean distance between the word and the sentence while training the classifier.
+
+3. **Part of Speech (POS) Tag and Word Level features** : We have used the word length and the number of vowels as features while training the classifier.
+
+## Paraphrase Ranking Model
+
+In order to rank the best candidates for academic rewriting, we have followed the learning to rank approach where the candidates are ranked baed on relevance score. The number of annotators selecting the given candidate is considered as the relevance score. The deep learning model provided by [tensorflow/ranking](https://github.com/tensorflow/ranking) is used o build the paraphrase ranking model.
