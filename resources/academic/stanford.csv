@@ -1,0 +1,4497 @@
+academic_freq,non_academic_freq,phrase,ratio
+44,12,clinical information,3.666666666666667
+119,2,human operator,59.5
+13,7,usable tool,1.857142857142857
+236,1,nlp technology,236.0
+5,2,astronautics,2.5
+30,1,final letter,30.0
+320,4,negative value,80.0
+11,2,croatian language,5.5
+42,6,collation,7.0
+2460,2,computes,1230.0
+2654,2,ilp,1327.0
+6,1,house description,6.0
+4,1,user acceptance testing,4.0
+76,2,document size,38.0
+699,2,data size,349.5
+11,2,israeli perspective,5.5
+125,2,text theory,62.5
+332,2,preprocessor,166.0
+105,3,english portion,35.0
+185,1,system com,185.0
+87,14,student writing,6.214285714285714
+72,2,annual conference,36.0
+5,1,modeling case,5.0
+162,40,short description,4.05
+362,123,singapore,2.943089430894309
+369,1,winograd,369.0
+42,5,particular method,8.4
+4,1,espectador,4.0
+61,1,abbreviation list,61.0
+2,1,perugia,2.0
+461,1,covariance,461.0
+24,6,whole question,4.0
+197,1,tensor product,197.0
+2,1,customary practice,2.0
+49,2,conceptual content,24.5
+473,4,ict,118.25
+12,3,linux operating system,4.0
+9,1,metaphorical reading,9.0
+170,14,standard english,12.14285714285714
+761,358,first set,2.125698324022346
+162,97,new user,1.670103092783505
+241,73,blackboard,3.301369863013699
+12,3,particular effect,4.0
+74,1,appropriate model,74.0
+381,2,google translate,190.5
+31,1,possible performance,31.0
+22,1,goal statement,22.0
+24,10,internationalization,2.4
+5,1,effect knowledge,5.0
+37,2,initial text,18.5
+127,9,example set,14.11111111111111
+33,1,plain text format,33.0
+2,1,factual level,2.0
+30,1,sequence number,30.0
+8,1,example syntax,8.0
+36,16,reference type,2.25
+788,1,causal relation,788.0
+10,1,deductive process,10.0
+21827,3,dataset,7275.666666666667
+7,2,theoretical value,3.5
+31,1,correct resolution,31.0
+93,1,xiang,93.0
+4975,544,reasoning,9.145220588235293
+32,7,speed increase,4.571428571428571
+51,4,appropriate category,12.75
+50,10,west germany,5.0
+249,1,data representation,249.0
+5,1,normal definition,5.0
+469,7,first task,67.0
+32,7,typographic error,4.571428571428571
+13415,1557,vocabulary,8.615928066795119
+313,8,straightforward way,39.125
+752,1,cue word,752.0
+5,3,child example,1.666666666666667
+26868,16454,description,1.632916008265467
+188,3,testing phase,62.66666666666666
+5,1,web service architecture,5.0
+139,2,case analysis,69.5
+428,32,text file,13.375
+279,1,source node,279.0
+298,1,underlying form,298.0
+10,1,xslt stylesheets,10.0
+54,28,oxford university press,1.928571428571429
+38,1,handshape,38.0
+135,2,benchmark data,67.5
+81,1,chinese pinyin,81.0
+97,3,complete sequence,32.33333333333334
+1201,17,punctuation mark,70.6470588235294
+24404,1281,automatic,19.05074160811866
+962,1,word length,962.0
+202,55,software engineering,3.672727272727273
+32,1,type list,32.0
+161,22,simple text,7.318181818181818
+9,1,practical evaluation,9.0
+36,21,literary theory,1.714285714285714
+217,4,diphthong,54.25
+176,29,new problem,6.068965517241379
+308,17,determinism,18.11764705882353
+1523,3,hidden markov model,507.6666666666667
+145,1,discourse focus,145.0
+183,3,additional knowledge,61.0
+15,3,item information,5.0
+4541,212,thesaurus,21.41981132075472
+176,2,gst,88.0
+2250,56,fluency,40.17857142857143
+5459,431,conference,12.66589327146172
+112,1,input character,112.0
+238,6,difficult case,39.66666666666666
+1979,323,real time,6.126934984520124
+13043,16,heuristic,815.1875
+12,2,structuralists,6.0
+68,2,straightforward method,34.0
+55,1,computational process,55.0
+12221,111,gold standard,110.0990990990991
+80,4,output file,20.0
+297,17,caching,17.47058823529412
+2,1,feminine language,2.0
+263,7,special interest group,37.57142857142857
+210,5,modeling technique,42.0
+186,60,dichotomy,3.1
+147,1,such representation,147.0
+559,23,tamil,24.30434782608696
+62,6,correct reading,10.33333333333333
+277,11,first character,25.18181818181818
+13,1,application knowledge,13.0
+61,16,hepatitis,3.8125
+28,1,such tech,28.0
+246,6,scientific text,41.0
+2,1,similar philosophy,2.0
+69,3,original method,23.0
+65,1,oracle system,65.0
+375,1,indicator function,375.0
+1579,10,participle,157.9
+71,5,panel discussion,14.2
+22,2,system event,11.0
+4,1,applicable knowledge,4.0
+10,5,digital communication,2.0
+42,1,output type,42.0
+5,3,habermas,1.666666666666667
+116,1,uiuc,116.0
+6530,2656,chart,2.458584337349397
+43,1,database field,43.0
+21,3,irrelevant content,7.0
+22,3,charles fillmore,7.333333333333333
+36043,179,parameter,201.3575418994413
+6,1,screen location,6.0
+376,30,same sense,12.53333333333333
+13,1,relational database management system,13.0
+7112,2921,conversation,2.434782608695652
+27,10,specific region,2.7
+42,2,error checking,21.0
+21,2,algorithm development,10.5
+128,9,language tool,14.22222222222222
+49,3,computability,16.33333333333333
+11269,5884,file,1.91519374575119
+49,5,such evidence,9.8
+2,1,work session,2.0
+52,9,actual score,5.777777777777778
+48,2,type structure,24.0
+323,2,lmf,161.5
+58,1,bnp,58.0
+2468,127,recent work,19.43307086614173
+70,4,langage,17.5
+809,2,same entity,404.5
+32,1,skewed data,32.0
+1233,9,broad coverage,137.0
+77,1,cuny,77.0
+2,1,brief recap,2.0
+38770,10716,concept,3.617954460619634
+111,3,thematic structure,37.0
+14,2,conversational topic,7.0
+373,3,word table,124.3333333333333
+12,1,phonics set,12.0
+5778,3,phoneme,1926.0
+5,3,particular audience,1.666666666666667
+52,10,single question,5.2
+187,4,conditionals,46.75
+16,1,example support,16.0
+29,2,ability score,14.5
+215,2,representation theory,107.5
+82,6,theoretical perspective,13.66666666666667
+70,9,complete solution,7.777777777777778
+2305,54,paraphrasing,42.68518518518518
+100,1,arbitrary word,100.0
+91,29,project gutenberg,3.137931034482758
+11,2,complete presentation,5.5
+110,12,internet user,9.166666666666666
+17,2,data presentation,8.5
+4,2,scientific context,2.0
+34,16,edmonton,2.125
+203,3,target user,67.66666666666667
+124,5,item set,24.8
+49,1,expected output,49.0
+398,1,research direction,398.0
+10,1,data study,10.0
+14,1,exponentiation,14.0
+10,4,neuropsychology,2.5
+304,1,distance function,304.0
+14,1,phrase index,14.0
+47,8,descriptive information,5.875
+23948,3471,improvement,6.899452607317776
+78,1,linguistic complexity,78.0
+120,9,substantial difference,13.33333333333333
+12,1,difference method,12.0
+1010,1,inflected form,1010.0
+147,36,ieee,4.083333333333333
+128,3,formal specification,42.66666666666666
+344,1,model size,344.0
+11,1,imperfect knowledge,11.0
+154,5,specific instance,30.8
+75,7,own data,10.71428571428571
+8446,2,test data,4223.0
+32,1,oxford advanced learner,32.0
+91,3,recursive definition,30.33333333333333
+54,1,reflexivity,54.0
+144,1,standard algorithm,144.0
+453,1,comparability,453.0
+20,2,time form,10.0
+16,1,term accuracy,16.0
+47,1,subjective judgment,47.0
+455,16,discontinuity,28.4375
+10,4,useful framework,2.5
+9,3,player position,3.0
+34,7,particular location,4.857142857142857
+153,1,conceptual knowledge,153.0
+56,1,recursive function,56.0
+68,22,haskell,3.090909090909091
+10442,1813,interface,5.759514616657474
+52,6,knowledge gap,8.666666666666666
+53,1,substitute word,53.0
+193,38,potential problem,5.078947368421052
+9870,1774,university,5.56369785794814
+14,2,finir,7.0
+14,4,actual structure,3.5
+36,1,modern linguistics,36.0
+12,2,domestic dog,6.0
+131,1,human intuition,131.0
+68919,1799,grammar,38.30961645358533
+27,1,intuitive method,27.0
+304,14,neuter,21.71428571428572
+237,19,transposition,12.47368421052632
+222,29,graeme,7.655172413793103
+22,1,useful model,22.0
+97,1,morphism,97.0
+241,52,web application,4.634615384615385
+156,5,type table,31.2
+21,1,inverse relationship,21.0
+533,2,language process,266.5
+230,12,soundness,19.16666666666667
+119,39,fait,3.051282051282051
+193,8,conflation,24.125
+49,1,template structure,49.0
+6504,89,knowledge base,73.07865168539325
+41664,8657,research,4.812752685687883
+430,3,input sequence,143.3333333333333
+119,1,character length,119.0
+131,1,generalizability,131.0
+30,20,mid 1990s,1.5
+1731,30,cept,57.7
+62,1,single structure,62.0
+122,1,evaluation table,122.0
+175,8,language syntax,21.875
+9,1,single configuration,9.0
+130,4,joint task,32.5
+18,1,text service,18.0
+118,14,english vocabulary,8.428571428571429
+3793,56,zhang,67.73214285714286
+35,2,knowledge type,17.5
+25790,7815,focus,3.300063979526552
+7,1,motivation section,7.0
+73,4,new york university,18.25
+5680,198,generalization,28.68686868686869
+7396,368,notation,20.09782608695652
+78,1,concept accuracy,78.0
+854,1,final state,854.0
+277,64,other element,4.328125
+270,1,equivalence relation,270.0
+125,3,standard machine,41.66666666666666
+128,80,athens,1.6
+87,1,language definition,87.0
+418,4,web text,104.5
+272,2,model combination,136.0
+338,1,english system,338.0
+93,1,output class,93.0
+6,3,gatehouse,2.0
+669,1,query language,669.0
+28,1,html text,28.0
+11123,67,iteration,166.0149253731343
+7086,194,computing,36.52577319587629
+1340,1,maximization,1340.0
+74,5,html file,14.8
+80,16,english character,5.0
+17,5,serbian language,3.4
+322,167,predictability,1.92814371257485
+247,2,unified framework,123.5
+84,1,english pronoun,84.0
+9,1,baseline pattern,9.0
+6,2,subjective feeling,3.0
+178,8,illustrative example,22.25
+904,61,multiplication,14.81967213114754
+741,6,question type,123.5
+2,1,milenio,2.0
+358,14,limited set,25.57142857142857
+382,1,recognition accuracy,382.0
+3928,36,next section,109.1111111111111
+20,1,algorithm description,20.0
+8,1,keyword indexing,8.0
+7,1,priority item,7.0
+210,9,redundant information,23.33333333333333
+49,3,example system,16.33333333333333
+98,15,exhaustive list,6.533333333333333
+10,1,sort algorithm,10.0
+191502,4185,data,45.75913978494624
+2,1,content program,2.0
+12,7,class actor,1.714285714285714
+365,2,first iteration,182.5
+351,170,previous model,2.064705882352941
+6625,54,computation,122.6851851851852
+224,2,particular class,112.0
+25,3,time approach,8.333333333333334
+3019,5,linear model,603.8
+1938,37,brill,52.37837837837838
+11,1,course data,11.0
+160,17,basic research,9.411764705882353
+5,1,tool knowledge,5.0
+61,4,text example,15.25
+3,2,kilby,1.5
+26,13,prompt response,2.0
+127,10,devanagari,12.7
+264,18,alternative method,14.66666666666667
+447,1,speech signal,447.0
+752,4,single document,188.0
+24,1,encoding process,24.0
+42,2,single syllable,21.0
+8824,3491,access,2.527642509309653
+38,5,office automation,7.6
+87,5,empirical research,17.4
+2,1,detailed categorization,2.0
+39512,2300,object,17.17913043478261
+4,1,single principle,4.0
+14,1,slot information,14.0
+134,4,related text,33.5
+132,5,full translation,26.4
+12,2,expert use,6.0
+90,2,theoretical issue,45.0
+272,2,other noun,136.0
+58301,3343,target,17.43972479808555
+319,3,graphical representation,106.3333333333333
+35,5,user testing,7.0
+273,7,level language,39.0
+14,6,iep,2.333333333333333
+102,1,possible configuration,102.0
+97,1,graph algorithm,97.0
+187,2,large database,93.5
+10,2,java virtual machine,5.0
+67,5,specific method,13.4
+165,9,second system,18.33333333333333
+2,1,incomplete proof,2.0
+66,11,french grammar,6.0
+118,2,empirical work,59.0
+7,1,example dataset,7.0
+1190,14,parallelism,85.0
+7,1,research staff member,7.0
+59,2,intuitive idea,29.5
+2623,2,sparsity,1311.5
+608,9,empirical study,67.55555555555556
+199,1,research problem,199.0
+183,1,frequency data,183.0
+34,2,multiple test,17.0
+266,1,different algorithm,266.0
+91,12,significant effort,7.583333333333333
+17,3,software platform,5.666666666666667
+2746,13,learning method,211.2307692307692
+2007,33,small set,60.81818181818182
+818,13,typology,62.92307692307692
+430,1,transition system,430.0
+94,10,overall approach,9.4
+24696,2003,definition,12.32950574138792
+1804,3,darpa,601.3333333333334
+21726,2537,path,8.563657863618447
+332,2,expected number,166.0
+13,2,cultural knowledge,6.5
+32,6,research methodology,5.333333333333333
+23,1,partial text,23.0
+13,1,orientation information,13.0
+60,38,comprehensive overview,1.578947368421053
+40118,214,discourse,187.4672897196262
+98,3,broad sense,32.66666666666666
+44,1,context evaluation,44.0
+118,73,sonnet,1.616438356164384
+131,4,technical document,32.75
+8,1,caller information,8.0
+96,13,user level,7.384615384615385
+681,106,summation,6.424528301886792
+172,1,accusative case,172.0
+2914,1123,para,2.594835262689225
+6,2,meaningful question,3.0
+7,2,general editor,3.5
+229,25,written form,9.16
+24,4,mathematical notation,6.0
+20,2,cohesive text,10.0
+1342,2,regression model,671.0
+20041,7785,project,2.574309569685292
+44716,12108,step,3.693095474066733
+213,29,user experience,7.344827586206897
+78,3,cormen,26.0
+8,2,database interaction,4.0
+2493,1,syntactic feature,2493.0
+126,11,interrelation,11.45454545454546
+19,2,successful outcome,9.5
+28,1,useful representation,28.0
+5,3,hotel information,1.666666666666667
+547,1,grammatical category,547.0
+232,3,grammatical form,77.33333333333333
+650,23,sample size,28.26086956521739
+317,4,different user,79.25
+34,2,separate level,17.0
+34,1,contextual element,34.0
+10,1,letter alphabet,10.0
+5,3,average range,1.666666666666667
+9,1,phrase lookup,9.0
+660,16,possible combination,41.25
+6,1,relevant scale,6.0
+296,4,same input,74.0
+17,1,principle component analysis,17.0
+236,1,book review editor,236.0
+18,5,paragraph number,3.6
+73,5,real world event,14.6
+31849,2079,component,15.31938431938432
+74,2,national university,37.0
+326,3,learning strategy,108.6666666666667
+495,44,general rule,11.25
+276,29,ria,9.517241379310345
+111,1,particular user,111.0
+456,7,level information,65.14285714285714
+28,5,name model,5.6
+635,402,unix,1.579601990049751
+691,3,research community,230.3333333333333
+326,3,first element,108.6666666666667
+3,1,confidence issue,3.0
+6,2,continuar,3.0
+33289,9445,difference,3.524510322922181
+300,37,certain kind,8.108108108108109
+104,1,single state,104.0
+20,2,broad context,10.0
+2,1,work output,2.0
+167,14,single event,11.92857142857143
+62,3,ubiquity,20.66666666666667
+153,2,data stream,76.5
+8,2,additional code,4.0
+15,2,talk system,7.5
+338,32,real world application,10.5625
+8,2,paper selection,4.0
+46,3,plan step,15.33333333333333
+128,61,current situation,2.098360655737705
+69,2,target item,34.5
+174,1,student response,174.0
+53,1,likelihood approach,53.0
+488,26,complete sentence,18.76923076923077
+32,3,html5,10.66666666666667
+205,24,historical text,8.541666666666666
+19245,6,segmentation,3207.5
+1242,1,factorization,1242.0
+85,1,invariance,85.0
+60,20,basic vocabulary,3.0
+5327,1,anaphora,5327.0
+13,1,subjective impression,13.0
+6,2,useful reference work,3.0
+34,5,significant degree,6.8
+20,1,fast method,20.0
+47,6,japanese phrase,7.833333333333333
+18,1,model correlation,18.0
+111,23,reaction time,4.826086956521739
+14,2,instruction type,7.0
+8,2,calculation algorithm,4.0
+54416,1517,speech,35.87079762689519
+186,1,context set,186.0
+56701,13,parser,4361.615384615385
+335,149,abe,2.248322147651007
+6490,114,vowel,56.92982456140351
+25,4,example list,6.25
+67,3,metric space,22.33333333333333
+272,3,specific concept,90.66666666666667
+17,4,service oriented architecture,4.25
+98,5,discussion section,19.6
+229,12,specific case,19.08333333333333
+39,1,predictive text,39.0
+183,1,english string,183.0
+6,1,korean writing system,6.0
+101,3,systematic study,33.66666666666666
+477,6,specific language,79.5
+2330,375,implication,6.213333333333333
+9,3,precise number,3.0
+106,23,filename,4.608695652173913
+7335,337,hmm,21.76557863501484
+103,1,compound modifier,103.0
+348,47,english grammar,7.404255319148936
+37,1,task analysis,37.0
+235,4,editorial board,58.75
+21,11,political discourse,1.909090909090909
+39,2,central notion,19.5
+331,11,wide scope,30.09090909090909
+56253,288,probability,195.3229166666667
+13,7,open hole,1.857142857142857
+84,3,language context,28.0
+649,2,standard data,324.5
+12194,4,smt,3048.5
+4,1,simple data structure,4.0
+3064,68,the association,45.05882352941177
+78,1,iterative method,78.0
+4,1,arbitrary fact,4.0
+3482,193,search engine,18.04145077720207
+887,444,algebra,1.997747747747748
+10,2,design space,5.0
+11,2,meaningful text,5.5
+9,1,term work,9.0
+271,1,language user,271.0
+6,2,evolutionary computation,3.0
+274,9,pseudocode,30.44444444444444
+227,60,poor result,3.783333333333333
+370,12,maximum length,30.83333333333333
+372,40,vagueness,9.3
+2,1,ongoing game,2.0
+1169,52,question answer,22.48076923076923
+5,2,proper theory,2.5
+181,19,overall structure,9.526315789473685
+529,1,current implementation,529.0
+105,1,formal framework,105.0
+38,19,text messaging,2.0
+75022,6986,user,10.73890638419697
+4,1,redundant repetition,4.0
+198,21,adaptability,9.428571428571429
+77,6,wird,12.83333333333333
+428,2,standard phrase,214.0
+1011,1,original sentence,1011.0
+268,13,experimenter,20.61538461538462
+11,1,first statistic,11.0
+650,402,hong kong,1.616915422885572
+5,1,first thread,5.0
+1821,5,tag set,364.2
+675,1,character sequence,675.0
+26,8,online content,3.25
+130,2,right node,65.0
+656,1,parent node,656.0
+278,2,corpus linguistics,139.0
+285,2,negative training,142.5
+702,5,dimensional space,140.4
+3,1,seed level,3.0
+27,1,grammar description,27.0
+25,2,last equation,12.5
+29,1,national academy,29.0
+50,1,connectionism,50.0
+63,4,single number,15.75
+28,2,basic implementation,14.0
+1313,2,pagerank,656.5
+39,15,different work,2.6
+30,4,specific collection,7.5
+8947,14,summarization,639.0714285714286
+483,25,same text,19.32
+348,9,second word,38.66666666666666
+467,5,specific rule,93.4
+45,4,minimal description,11.25
+344,9,data type,38.22222222222222
+349,23,user need,15.17391304347826
+16,1,example paper,16.0
+6,2,consistent output,3.0
+66,16,topic area,4.125
+36,3,time response,12.0
+1902,616,diversity,3.087662337662338
+85925,7498,term,11.45972259269139
+259,4,object relation,64.75
+442,4,textual information,110.5
+213,26,mandarin chinese,8.192307692307692
+12,1,bias effect,12.0
+242239,18861,system,12.84338052065108
+394,1,infix,394.0
+1821,6,joshi,303.5
+2267,29,robustness,78.17241379310344
+46,1,dutch language,46.0
+29,3,translation theory,9.666666666666666
+890,5,right context,178.0
+217,6,financial support,36.16666666666666
+163,4,recommender,40.75
+2477,27,grammar rule,91.74074074074075
+71,10,combinatorics,7.1
+17,1,status message,17.0
+55,1,test user,55.0
+26318,278,metric,94.66906474820144
+4,1,infinite source,4.0
+33,1,object identification,33.0
+58,5,japanese speaker,11.6
+29,1,indirection,29.0
+92,2,pattern rule,46.0
+8,4,interdisciplinary study,2.0
+88,2,bradford book,44.0
+1210,1,target phrase,1210.0
+300,78,molecule,3.846153846153846
+25,1,reference process,25.0
+893,4,broadcast news,223.25
+46,20,smartphones,2.3
+2,1,washington state university,2.0
+2619,3,markov model,873.0
+6,1,microphone signal,6.0
+326,31,shorthand,10.51612903225806
+71,1,mapping process,71.0
+420,46,toefl,9.130434782608695
+3987,206,first step,19.35436893203883
+7,3,database example,2.333333333333333
+4,1,handwriting recognition system,4.0
+137,3,heuristic approach,45.66666666666666
+63,8,relevant question,7.875
+2,1,international humanitarian law,2.0
+2235,8,english sentence,279.375
+7033,2510,paragraph,2.80199203187251
+2,1,radial basis function network,2.0
+88,1,empirical investigation,88.0
+102381,2642,phrase,38.75132475397426
+966,6,text processing,161.0
+142,5,order information,28.4
+52,5,particular level,10.4
+339,156,little work,2.173076923076923
+20,1,modest performance,20.0
+643,11,chinese text,58.45454545454545
+18,2,hyperlinking,9.0
+77,6,desirability,12.83333333333333
+68,1,formal linguistics,68.0
+30,1,keynote talk,30.0
+79,2,grammatical aspect,39.5
+15,3,core topic,5.0
+53,3,sprache,17.66666666666667
+65,1,semantic effect,65.0
+91,10,theoretical approach,9.1
+13,1,particular score,13.0
+6,1,genome research,6.0
+24,1,system overview,24.0
+51883,6494,knowledge,7.989374807514629
+9,6,taxiing,1.5
+5867,47,optimization,124.8297872340426
+4,1,potential clarification,4.0
+71,1,lexicology,71.0
+41,15,obvious example,2.733333333333333
+15,2,bahasa indonesia,7.5
+6292,118,syllable,53.32203389830509
+80,4,such publication,20.0
+56,3,fingerspelling,18.66666666666667
+832,64,competence,13.0
+10,4,action decision,2.5
+28,3,particular number,9.333333333333334
+622,3,speedup,207.3333333333333
+154,6,central problem,25.66666666666667
+9,1,free university,9.0
+459,2,standard approach,229.5
+275,1,bilingual text,275.0
+374,79,debugging,4.734177215189874
+106,2,target paper,53.0
+35,1,further information contact,35.0
+59,1,relation information,59.0
+127,3,subject field,42.33333333333334
+2,1,mathematical intuition,2.0
+35,12,strong belief,2.916666666666667
+10,1,straightforward idea,10.0
+3883,8,ques,485.375
+21,1,example parsing,21.0
+241,12,same object,20.08333333333333
+109,1,speaker belief,109.0
+18,1,nontrivial task,18.0
+21,4,editorship,5.25
+15,3,diagnostic procedure,5.0
+717,228,vietnamese,3.144736842105263
+34,1,rank difference,34.0
+40,5,additional text,8.0
+264,5,language description,52.8
+5726,1,language pair,5726.0
+50,1,term description,50.0
+32,1,text selection,32.0
+214,2,system user,107.0
+19,5,alphabetic order,3.8
+30165,29,parse,1040.172413793103
+253,145,gratitude,1.744827586206896
+22,1,conceptual interpretation,22.0
+158,1,new evaluation,158.0
+6,3,configuration problem,2.0
+905,188,webber,4.813829787234043
+12,6,random phrase,2.0
+256,2,evaluation process,128.0
+3,1,algebraic method,3.0
+16,2,input function,8.0
+388,18,simple approach,21.55555555555556
+103,1,correct category,103.0
+524,1,international workshop,524.0
+40,1,grammatical correctness,40.0
+2,1,essential definition,2.0
+992,642,assistance,1.545171339563863
+69,2,technical terminology,34.5
+386,13,sample sentence,29.69230769230769
+188,2,language semantics,94.0
+187,1,optimal number,187.0
+51,2,basic frame,25.5
+38,2,text area,19.0
+690,20,new data,34.5
+29,3,index number,9.666666666666666
+53,6,critical problem,8.833333333333334
+37661,8778,study,4.290385053542948
+1303,1,grammatical function,1303.0
+890,577,encyclopedia,1.542461005199307
+102,1,reduction method,102.0
+307,81,voter,3.790123456790123
+918,1,sparse data,918.0
+12,1,english component,12.0
+157,30,specific question,5.233333333333333
+1718,36,applicability,47.72222222222222
+12,4,good relation,3.0
+7,1,oracle knowledge,7.0
+5,1,thematic coherence,5.0
+175,1,test phase,175.0
+54,27,game world,2.0
+13,2,general database,6.5
+271,2,single language,135.5
+115,1,selection problem,115.0
+11,1,effective data,11.0
+14548,45,subset,323.2888888888889
+34,2,simple predicate,17.0
+185,1,evaluation tool,185.0
+139,2,reproducibility,69.5
+1241,17,medline,73.0
+2,1,basic grammar book,2.0
+52,1,target problem,52.0
+1853,600,hebrew,3.088333333333333
+40,2,perfect precision,20.0
+231,7,negative score,33.0
+27,1,centroid method,27.0
+19520,3102,report,6.292714377820761
+46,19,falsity,2.421052631578947
+485,3,reinforcement learning,161.6666666666667
+33,22,significant issue,1.5
+383,55,specific topic,6.963636363636364
+60,2,test procedure,30.0
+183,35,incorrect answer,5.228571428571429
+23,1,incremental step,23.0
+177,10,french text,17.7
+457,2,feature group,228.5
+25,1,laboratory experiment,25.0
+5226,6,sentence level,871.0
+121956,31204,information,3.908345083963594
+57,14,medical knowledge,4.071428571428571
+136,1,computational analysis,136.0
+29,2,accurate evaluation,14.5
+142,5,microfilm,28.4
+11585,9,lemma,1287.222222222222
+95,2,overall process,47.5
+41,2,particular theory,20.5
+15,2,table model,7.5
+6,2,syntax work,3.0
+1163,4,linguistic analysis,290.75
+9,1,additional useful information,9.0
+197,94,first paragraph,2.095744680851064
+523,253,familiarity,2.067193675889328
+34,1,particular relationship,34.0
+31,2,tecnologia,15.5
+364,20,key phrase,18.2
+163,5,relevant data,32.6
+9,4,comment box,2.25
+124,3,label information,41.33333333333334
+210,11,german translation,19.09090909090909
+31,4,basic procedure,7.75
+244,7,dou,34.85714285714285
+93,17,knowledge level,5.470588235294118
+243,6,special issue,40.5
+15,4,german vocabulary,3.75
+52,2,encoding method,26.0
+62,9,semiotics,6.888888888888889
+28,1,application data,28.0
+32,9,yale university,3.555555555555555
+93,7,interdependence,13.28571428571429
+3,2,javascript application,1.5
+177,1,efficient implementation,177.0
+951,14,language word,67.92857142857143
+134,6,system configuration,22.33333333333333
+868,17,causality,51.05882352941177
+65,21,production process,3.095238095238095
+3932,908,consequence,4.330396475770925
+17,5,simple theory,3.4
+69,3,linear equation,23.0
+49,4,example application,12.25
+23987,3914,generation,6.128513030148186
+22,13,word file,1.692307692307692
+207,1,subjective evaluation,207.0
+328,1,heterogeneity,328.0
+3,1,fuzzy notion,3.0
+297,8,genetic algorithm,37.125
+293,4,realiza,73.25
+479,8,lexicography,59.875
+35,1,time analysis,35.0
+27,1,research paradigm,27.0
+179,23,columbia university,7.782608695652174
+15,2,online environment,7.5
+466,26,key idea,17.92307692307692
+114,1,web mining,114.0
+12,1,intuitive reasoning,12.0
+48,1,standard output,48.0
+257,2,pku,128.5
+99,2,subfield,49.5
+1310,5,ization,262.0
+118,9,best paper,13.11111111111111
+136,5,appropriate value,27.2
+54,1,response word,54.0
+121,3,sentence example,40.33333333333334
+523,12,european union,43.58333333333334
+6,2,word mother,3.0
+6,1,simple analogy,6.0
+507,31,overall score,16.35483870967742
+44,3,analysis data,14.66666666666667
+128623,2487,task,51.71813429835143
+91,1,power set,91.0
+93,2,specific phrase,46.5
+124,5,appropriate context,24.8
+17,4,specific solution,4.25
+300,2,translation approach,150.0
+1020,140,funding,7.285714285714286
+17,2,expository dialogue,8.5
+228,32,usc,7.125
+139,27,nitrogen,5.148148148148148
+66329,9,lexical,7369.888888888889
+6,1,participle phrase,6.0
+25,4,northwestern university,6.25
+610,4,binary tree,152.5
+961,3,statistical significance,320.3333333333333
+214,6,textual description,35.66666666666666
+4,1,serial implementation,4.0
+8,1,concept use,8.0
+1439,935,lecture,1.53903743315508
+18,4,second number,4.5
+66,2,massachusetts institute,33.0
+97,35,facilitator,2.771428571428571
+133,3,pattern set,44.33333333333334
+9,1,effective implementation,9.0
+355,1,transliteration system,355.0
+26,8,actual topic,3.25
+25,1,foreign language learning,25.0
+122,4,final text,30.5
+11,5,iie,2.2
+15,1,regular expression search,15.0
+7,2,user login,3.5
+220,21,virtual world,10.47619047619048
+5,1,facial expression recognition,5.0
+7,2,code model,3.5
+202,4,accurate model,50.5
+808,4,proc,202.0
+67,1,evolutionary algorithm,67.0
+7,1,research assignment,7.0
+50,8,tbi,6.25
+16291,24,clustering,678.7916666666666
+225,1,global information,225.0
+1658,2,word error,829.0
+26181,116,clause,225.698275862069
+167,20,specific event,8.35
+1012,3,recognition system,337.3333333333333
+22,5,duke university,4.4
+124,21,general theory,5.904761904761905
+2,1,class amount,2.0
+15,4,game score,3.75
+62055,11116,state,5.582493702770781
+2,1,undergraduate training,2.0
+150,14,new object,10.71428571428571
+3,1,publication format,3.0
+1983,2,concatenation,991.5
+138,8,potential user,17.25
+374,73,basic level,5.123287671232877
+21,1,student interaction,21.0
+5,1,equivalent item,5.0
+91,2,ibm research,45.5
+5,1,action view,5.0
+27,1,concept repetition,27.0
+13,1,speech intelligibility,13.0
+80,3,rapid prototyping,26.66666666666667
+2,1,norwegian version,2.0
+2065,5,instantiation,413.0
+10,1,reward structure,10.0
+8,2,possible motivation,4.0
+1163,3,level feature,387.6666666666667
+13,5,purdue university,2.6
+211,7,sentence pattern,30.14285714285714
+92,1,dynamic model,92.0
+520,4,general framework,130.0
+3,2,manageable amount,1.5
+4633,1,syntactic structure,4633.0
+127,1,axiomatization,127.0
+171,3,concept type,57.0
+31,3,collaborative project,10.33333333333333
+65,11,time value,5.909090909090909
+262,5,standard way,52.4
+511,1,word accuracy,511.0
+84,23,vowel sound,3.652173913043478
+24,1,question quality,24.0
+2940,1,context free grammar,2940.0
+1347,7,lcs,192.4285714285714
+207,1,pronunciation dictionary,207.0
+11,4,proof method,2.75
+241,1,user type,241.0
+661,5,pubmed,132.2
+466,11,system development,42.36363636363637
+2120,15,metadata,141.3333333333333
+18,2,mathematical formalism,9.0
+6,3,horizontal surface,2.0
+47,2,operational system,23.5
+35,19,standard notation,1.842105263157895
+120,1,input system,120.0
+146,2,information presentation,73.0
+51,14,cfr,3.642857142857143
+42,1,syntax information,42.0
+36,1,actual context,36.0
+65,2,composition process,32.5
+12,1,vocabulary database,12.0
+209,22,restatement,9.5
+6,2,noise type,3.0
+65,17,readable text,3.823529411764706
+7,3,research process,2.333333333333333
+124,5,japanese dictionary,24.8
+209,2,new input,104.5
+193,1,relevant term,193.0
+1445,4,predication,361.25
+27,16,psychological theory,1.6875
+15,10,mbti,1.5
+80,10,minimal cost,8.0
+2588,14,chinese word,184.8571428571429
+775,5,qualia,155.0
+36,1,content value,36.0
+531,1,word corpus,531.0
+68,1,abstract structure,68.0
+3,1,age metaphor,3.0
+12960,4307,degree,3.00905502670072
+667,55,edinburgh,12.12727272727273
+10,6,own effort,1.666666666666667
+472,3,data problem,157.3333333333333
+192,27,benchmarking,7.111111111111111
+41,3,current solution,13.66666666666667
+77,9,single case,8.555555555555555
+413,201,pennsylvania,2.054726368159204
+98,1,frequency value,98.0
+1502,4,valency,375.5
+4,1,mishnah,4.0
+10,2,summary paragraph,5.0
+16,1,description text,16.0
+276,1,target document,276.0
+2,1,cognitive behavioural therapy,2.0
+50,2,meaningful sentence,25.0
+839,1,hashtag,839.0
+797,73,new approach,10.91780821917808
+3803,3,word level,1267.666666666667
+457,3,human performance,152.3333333333333
+4,1,legal context,4.0
+13,1,numerical code,13.0
+182,2,evaluation section,91.0
+5557,83,pruning,66.95180722891567
+11,3,gender identification,3.666666666666667
+42,1,target order,42.0
+752,2,first order logic,376.0
+37,1,communication process,37.0
+65,1,significant performance improvement,65.0
+270,62,concrete example,4.354838709677419
+3,1,book logic,3.0
+181,1,pragmatic information,181.0
+1230,5,pattern matching,246.0
+11,1,simplistic method,11.0
+5,1,name lookup,5.0
+56,11,first filter,5.090909090909091
+15,1,default system,15.0
+58,11,development work,5.272727272727272
+222,1,sense level,222.0
+505,21,specific task,24.04761904761905
+317,1,dictionary lookup,317.0
+39,4,kemal,9.75
+479,19,world wide web,25.21052631578947
+45,5,only translation,9.0
+185,3,component analysis,61.66666666666666
+32,5,jusqu,6.4
+714,15,scalability,47.6
+27,9,different thread,3.0
+359,45,specific model,7.977777777777778
+61,2,tcr,30.5
+11,1,polypeptide,11.0
+14,1,language pedagogy,14.0
+950,1,document set,950.0
+1987,72,wall street journal,27.59722222222222
+225,30,type person,7.5
+2,1,extensive debugging,2.0
+706,1,canonical form,706.0
+8,1,cutoff frequency,8.0
+52,4,example data,13.0
+48,4,intuitive understanding,12.0
+21,5,individual article,4.2
+37,12,autism spectrum disorder,3.083333333333333
+65,3,redefinition,21.66666666666667
+401,88,pascal,4.556818181818182
+103,4,user information,25.75
+11,2,message part,5.5
+163,1,speech interface,163.0
+206,2,function application,103.0
+13,1,inconsistent data,13.0
+1713,5,source text,342.6
+4379,38,taxonomy,115.2368421052632
+4,1,useful problem,4.0
+21419,890,recognition,24.06629213483146
+1406,4,dialog system,351.5
+156,5,precise definition,31.2
+11,5,belief structure,2.2
+1339,1,finite set,1339.0
+28,2,type string,14.0
+211,1,interpretation process,211.0
+1800,67,significant difference,26.86567164179105
+271,1,second task,271.0
+464,2,xml format,232.0
+556,1,rences,556.0
+44,1,sentence rule,44.0
+165,10,actual value,16.5
+117,2,complete problem,58.5
+19,3,comprehensive theory,6.333333333333333
+32,14,effective communication,2.285714285714286
+50055,59,dependency,848.3898305084746
+4374,23,neural network,190.1739130434783
+11,2,real time feedback,5.5
+249,3,phenotype,83.0
+269,8,grammatical rule,33.625
+97,2,correction method,48.5
+1551,9,rdf,172.3333333333333
+192,1,speech event,192.0
+134,1,minimum value,134.0
+227,2,data section,113.5
+83,12,reasonable number,6.916666666666667
+73,1,constraint ranking,73.0
+3,2,correct method,1.5
+49,4,symbolic system,12.25
+1135,1,error reduction,1135.0
+15,2,iterator,7.5
+279,3,grammatical information,93.0
+119,1,fruitful discussion,119.0
+183,20,cit,9.15
+39,2,user acceptance,19.5
+259,13,analysis method,19.92307692307692
+60,5,initial question,12.0
+19,1,speech material,19.0
+2300,5,learning approach,460.0
+4,2,communication manager,2.0
+12,1,relevant statement,12.0
+20,1,correct definition,20.0
+177,1,topic focus,177.0
+9,1,computational methodology,9.0
+947,217,sentence structure,4.364055299539171
+495,3,subcategories,165.0
+436,4,automatic system,109.0
+209,4,word index,52.25
+2364,2,sentence length,1182.0
+8433,3,target word,2811.0
+6,1,voice segment,6.0
+9,2,robot action,4.5
+986,69,learning process,14.28985507246377
+8,1,data mining algorithm,8.0
+25,1,formal phrase,25.0
+1547,58,different word,26.67241379310345
+573,2,specific knowledge,286.5
+402,97,brief overview,4.144329896907217
+139,65,useful resource,2.138461538461538
+17,1,conflations,17.0
+13,7,mcluhan,1.857142857142857
+17,5,alan turing,3.4
+9,4,next election,2.25
+103,1,turing test,103.0
+253,2,term list,126.5
+879,23,second stage,38.21739130434783
+20,2,new notation,10.0
+14,8,death date,1.75
+2,1,reasoning error,2.0
+2048,1,root node,2048.0
+64,2,initial goal,32.0
+138480,20109,example,6.886468745337909
+169,6,particular instance,28.16666666666667
+154,1,random initialization,154.0
+47,1,relational concept,47.0
+554,9,unicode,61.55555555555556
+35,1,message content,35.0
+23,2,health topic,11.5
+179,10,output quality,17.9
+29,1,resource type,29.0
+15613,4245,response,3.677974087161366
+29,1,example usage,29.0
+2468,356,the university,6.932584269662922
+8,1,extraction study,8.0
+106,54,aesop,1.962962962962963
+6,1,programming methodology,6.0
+21,7,usability issue,3.0
+17,1,linguistic terminology,17.0
+39519,73,baseline,541.3561643835617
+9,4,poetic text,2.25
+102,3,mark johnson,34.0
+32,1,unifying framework,32.0
+80,3,basque country,26.66666666666667
+106,1,similar analysis,106.0
+753,90,hardbound,8.366666666666667
+174,6,text content,29.0
+49,2,word system,24.5
+48,5,avignon,9.6
+476,105,hahn,4.533333333333333
+468,15,second case,31.2
+88,2,user data,44.0
+260,18,incompleteness,14.44444444444444
+47,2,system text,23.5
+122,1,text translation,122.0
+10248,3921,challenge,2.613618974751339
+2049,1100,functionality,1.862727272727273
+364,3,single system,121.3333333333333
+700,180,articulation,3.888888888888889
+78,18,irrelevant information,4.333333333333333
+69,6,arabic letter,11.5
+345,2,complex model,172.5
+39,19,hebrew text,2.052631578947369
+636,5,time step,127.2
+7,2,art example,3.5
+117,2,model theory,58.5
+252,4,level analysis,63.0
+19708,3,language model,6569.333333333333
+12,5,last answer,2.4
+5,2,example chart,2.5
+266,10,automated system,26.6
+439,11,interoperability,39.90909090909091
+122,1,temporal logic,122.0
+61,1,work model,61.0
+97,1,national language,97.0
+5803,31,unification,187.1935483870968
+62,1,right translation,62.0
+657,59,detailed analysis,11.13559322033898
+74,1,social network analysis,74.0
+2,1,practice monologue,2.0
+67,2,additional analysis,33.5
+21,9,intuitive approach,2.333333333333333
+57,1,cll,57.0
+541,1,second approach,541.0
+54,1,dutch text,54.0
+409,30,sentence fragment,13.63333333333333
+26,1,word apple,26.0
+6,1,biological context,6.0
+53,4,optional rule,13.25
+309,17,general problem,18.17647058823529
+19,1,context character,19.0
+77,4,third model,19.25
+268,1,initial model,268.0
+1490,2,contextual information,745.0
+59,3,only context,19.66666666666667
+117,10,straightforward approach,11.7
+251,1,delimiter,251.0
+82,2,tree pattern,41.0
+64,6,human perception,10.66666666666667
+209,7,city name,29.85714285714286
+13,7,policy issue,1.857142857142857
+99,2,dialogue level,49.5
+25,1,correspondence analysis,25.0
+15,1,admission date,15.0
+84,4,single object,21.0
+4,2,visual approach,2.0
+27,3,student behavior,9.0
+55,1,frequency function,55.0
+163,6,user rating,27.16666666666667
+47,1,active learning strategy,47.0
+29,2,interchangeability,14.5
+11,1,geographic information system,11.0
+9,5,uninitiated reader,1.8
+940,22,current work,42.72727272727273
+17,3,pitch change,5.666666666666667
+15,2,design data,7.5
+157,51,apostrophe,3.07843137254902
+25,14,piaget,1.785714285714286
+39582,5896,search,6.713364993215739
+160,1,nmt,160.0
+153,1,virtual environment,153.0
+104,49,microsoft word,2.122448979591837
+495,175,qui,2.828571428571429
+5,1,insert function,5.0
+128,12,hutchins,10.66666666666667
+26,1,perceiver,26.0
+31,4,russian text,7.75
+116,1,tversky,116.0
+14842,5289,map,2.806201550387597
+4,1,minimal user input,4.0
+86,36,rgb,2.388888888888889
+74,1,simple dictionary,74.0
+4944,1254,google,3.942583732057416
+29,2,information visualization,14.5
+363,42,low score,8.642857142857142
+26,2,continuous function,13.0
+2,1,interesting conference,2.0
+318,39,newsgroups,8.153846153846153
+35,1,proportionality,35.0
+262,2,grammar checker,131.0
+4,1,duchenne,4.0
+12109,3262,discussion,3.712139791538933
+11458,787,aim,14.55908513341804
+39,8,broad topic,4.875
+1957,132,new word,14.82575757575758
+46,2,workshop program,23.0
+1975,599,time consuming,3.297161936560935
+160,8,basic system,20.0
+29,1,document part,29.0
+58,24,fuzzy logic,2.416666666666667
+1772,1047,tutorial,1.692454632282713
+2,1,sql select statement,2.0
+901,389,phrasing,2.316195372750643
+94,3,class level,31.33333333333333
+555,35,simple rule,15.85714285714286
+62,2,superposition,31.0
+36,1,language tutor,36.0
+3,1,analytical philosophy,3.0
+75,10,fundamental question,7.5
+2330,537,snippet,4.338919925512104
+6397,9,word order,710.7777777777778
+428,76,affiliation,5.631578947368421
+184,7,dissemination,26.28571428571428
+1184,15,other approach,78.93333333333334
+29,5,obvious benefit,5.8
+2666,391,swedish,6.818414322250639
+27,5,screen device,5.4
+188,3,system description,62.66666666666666
+2,1,concise roadmap,2.0
+2,1,cartographic information,2.0
+7,1,minimal system,7.0
+40,2,single list,20.0
+3727,82,chen,45.45121951219512
+1030,180,different set,5.722222222222222
+208,28,different concept,7.428571428571429
+117,7,livejournal,16.71428571428572
+417,116,maryland,3.594827586206896
+25,1,correction approach,25.0
+184,23,correct form,8.0
+65,3,typical word,21.66666666666667
+8,3,client device,2.666666666666667
+2227,18,subsection,123.7222222222222
+82,10,timespan,8.2
+40,1,positive context,40.0
+121,1,linear framework,121.0
+8,1,paper content,8.0
+163,1,language theory,163.0
+80,8,text portion,10.0
+1012,1,value pair,1012.0
+16167,100,pronoun,161.67
+131,8,specific content,16.375
+11,5,simple view,2.2
+11,1,salient topic,11.0
+212169,4050,sentence,52.38740740740741
+744,13,information content,57.23076923076923
+295,6,japanese text,49.16666666666666
+127,3,longman dictionary,42.33333333333334
+13915,3,tagger,4638.333333333333
+9832,1140,contribution,8.624561403508771
+4,1,institutional name,4.0
+9344,1,language processing,9344.0
+62,10,string set,6.2
+57,1,voice input,57.0
+1516,68,additional feature,22.29411764705882
+123,5,long term memory,24.6
+530,3,extraction process,176.6666666666667
+7,1,novel paradigm,7.0
+35076,7840,role,4.473979591836735
+142,62,rebuttal,2.290322580645161
+69,1,xml structure,69.0
+2247,68,abstraction,33.04411764705883
+34,4,order problem,8.5
+8963,17,formalism,527.2352941176471
+322,13,same head,24.76923076923077
+176,70,specific example,2.514285714285714
+12,1,person information,12.0
+145,45,xii,3.222222222222222
+14,1,emotion phrase,14.0
+53,1,particular frame,53.0
+617,1,lexicon entry,617.0
+257,1,data format,257.0
+632,4,formal language,158.0
+13339,3519,address,3.790565501562944
+29838,1848,recall,16.1461038961039
+398,11,statistical information,36.18181818181818
+8364,747,assignment,11.19678714859438
+151,1,linguistic perspective,151.0
+28,2,summary information,14.0
+183,1,microfiche,183.0
+18,2,detailed procedure,9.0
+283,32,longman,8.84375
+2909,53,simplification,54.88679245283019
+458,58,beijing,7.896551724137931
+92,29,peut,3.172413793103448
+271,3,hash table,90.33333333333333
+1612,14,phonology,115.1428571428571
+24,1,study design,24.0
+9,1,dictionary software,9.0
+183,3,official language,61.0
+50,2,general preference,25.0
+19,2,latter issue,9.5
+36,1,grammar pattern,36.0
+223,2,such structure,111.5
+221,18,research purpose,12.27777777777778
+221,1,single class,221.0
+25,1,algorithm design,25.0
+182,46,hiragana,3.956521739130435
+66,2,general system,33.0
+241,8,stanford university,30.125
+478,5,research question,95.6
+30,1,text view,30.0
+49,13,computer simulation,3.769230769230769
+44,3,text style,14.66666666666667
+24515,13546,tool,1.809759338550126
+60,4,ohio state university,15.0
+101,1,automated evaluation,101.0
+133,39,dyslexia,3.41025641025641
+103,1,approximate solution,103.0
+1262,1,input word,1262.0
+18,4,foundational work,4.5
+1846,3,headword,615.3333333333334
+19,1,history model,19.0
+177,16,sense information,11.0625
+1580,1,freebase,1580.0
+75,2,sentence mean,37.5
+371,17,uppercase,21.82352941176471
+89,17,straightforward manner,5.235294117647059
+2,1,current financial situation,2.0
+234,15,intension,15.6
+2,1,textbook introduction,2.0
+26254,1058,property,24.81474480151229
+222,2,reusability,111.0
+152,7,conceptual level,21.71428571428572
+10,3,date format,3.333333333333333
+35,4,much context,8.75
+234,9,visual information,26.0
+21,1,gold standard text,21.0
+1527,8,logistic regression,190.875
+190,1,basis function,190.0
+73265,12115,figure,6.047461824184895
+3091,7,representa,441.5714285714286
+151,14,multiplicity,10.78571428571429
+4,1,romanization method,4.0
+1162,31,raters,37.48387096774194
+9,3,title information,3.0
+2521,235,activation,10.72765957446808
+94,1,specific user,94.0
+12897,469,association,27.49893390191898
+85,11,portuguese language,7.727272727272728
+4,1,useful context information,4.0
+886,285,directory,3.108771929824561
+138,1,text alignment,138.0
+206,46,human interaction,4.478260869565218
+287,17,special thanks,16.88235294117647
+4154,66,toolkit,62.93939393939394
+250,43,responsiveness,5.813953488372093
+309,7,conceptualization,44.14285714285715
+52,1,particular action,52.0
+21,11,diagnostic tool,1.909090909090909
+2,1,pbx system,2.0
+2,1,xsl formatting,2.0
+98,13,intuitive way,7.538461538461538
+62,3,particular approach,20.66666666666667
+715,70,end user,10.21428571428571
+17775,70,inference,253.9285714285714
+3,2,job talk,1.5
+6,1,default partition,6.0
+3239,1361,engineering,2.379867744305658
+2661,1,dirichlet,2661.0
+93,1,domain structure,93.0
+863,372,yahoo,2.31989247311828
+722,15,training process,48.13333333333333
+284,12,nonverbal,23.66666666666667
+15,7,novel genre,2.142857142857143
+60,28,arab world,2.142857142857143
+118544,4789,rule,24.75339319273335
+77,14,human activity,5.5
+7,1,portability issue,7.0
+46,10,meaningful information,4.6
+253,28,new knowledge,9.035714285714286
+26,1,sophisticated machine,26.0
+95,2,possible context,47.5
+7,2,huge resource,3.5
+6,1,structure view,6.0
+4,2,same basic message,2.0
+35,1,top search result,35.0
+108,1,communicative action,108.0
+201,2,weblogs,100.5
+258,3,word structure,86.0
+6829,498,specification,13.71285140562249
+15,1,interactive poster,15.0
+128,1,comparable text,128.0
+805,43,success rate,18.72093023255814
+189,16,available information,11.8125
+119,2,accuracy value,59.5
+6,1,wwdc,6.0
+85,2,google search engine,42.5
+96,21,review process,4.571428571428571
+94,3,dialogue situation,31.33333333333333
+64380,62,node,1038.387096774194
+136,2,malayalam,68.0
+145,15,single link,9.666666666666666
+2678,913,forum,2.933187294633078
+230,7,subroutine,32.85714285714285
+32373,18915,head,1.711498810467883
+78,2,multimedia content,39.0
+81,1,normalization process,81.0
+290878,15004,model,19.38669688083178
+53,2,resampling method,26.5
+44,2,size parameter,22.0
+666,20,average score,33.3
+126,5,complete analysis,25.2
+558,1,different data,558.0
+113,13,help system,8.692307692307692
+36,2,brandeis university,18.0
+8,1,character identity,8.0
+131,2,internal state,65.5
+46,1,thesis proposal,46.0
+48,2,appropriate text,24.0
+76,14,epinions,5.428571428571429
+113,7,readable form,16.14285714285714
+130,3,pba,43.33333333333334
+22,1,whorf,22.0
+87,8,specific action,10.875
+820,6,choi,136.6666666666667
+524,88,carlo,5.954545454545454
+48,6,challenging issue,8.0
+124,3,expository text,41.33333333333334
+7,1,negative role,7.0
+40,19,encapsulation,2.105263157894737
+150,3,dictionnaire,50.0
+72,4,normal text,18.0
+59,1,standardisation,59.0
+55,3,individual topic,18.33333333333333
+64,1,undecidability,64.0
+3,1,engineering context,3.0
+159,1,paragraph level,159.0
+3,1,relevant expertise,3.0
+156,2,cluster size,78.0
+609,25,katakana,24.36
+23,1,plagiarism case,23.0
+6,1,testing situation,6.0
+13,2,csv file,6.5
+9,1,compositional complexity,9.0
+4978,370,effectiveness,13.45405405405405
+15,2,international cooperation,7.5
+63,20,detailed knowledge,3.15
+105,3,time data,35.0
+4,1,belief bias,4.0
+204,13,hci,15.69230769230769
+66,15,specific situation,4.4
+17,3,checkboxes,5.666666666666667
+11,3,research experience,3.666666666666667
+206,1,inflected language,206.0
+643,1,attentional,643.0
+22,3,arabic version,7.333333333333333
+82,21,physical world,3.904761904761905
+98659,11338,section,8.70162286117481
+113,1,general task,113.0
+236,6,small value,39.33333333333334
+72,1,statistical component,72.0
+4,1,content copyright,4.0
+926,2,structure grammar,463.0
+60199,5,syntactic,12039.8
+28,5,utility value,5.6
+30,6,cto,5.0
+195,2,new tree,97.5
+43,2,language specification,21.5
+26,1,topic selection,26.0
+20,3,sollen,6.666666666666667
+145,55,openness,2.636363636363636
+26,1,output system,26.0
+12,1,neutral score,12.0
+44,1,gender prediction,44.0
+60,9,wpm,6.666666666666667
+76,2,efficient training,38.0
+565,12,type system,47.08333333333334
+262,1,search problem,262.0
+8,5,action score,1.6
+372,6,other rule,62.0
+411,1,new task,411.0
+212,10,glyph,21.2
+1189,24,briscoe,49.54166666666666
+7,4,strong criticism,1.75
+141,1,text vector,141.0
+89,19,reading text,4.684210526315789
+338,14,real data,24.14285714285714
+176,1,same lemma,176.0
+25,6,subgenres,4.166666666666667
+30,13,legibility,2.307692307692307
+37,14,health care provider,2.642857142857143
+694,86,difficult task,8.069767441860465
+12,6,calendar date,2.0
+10,2,correct configuration,5.0
+591,65,other sentence,9.092307692307692
+43,2,college london,21.5
+35,2,particular analysis,17.5
+4631,252,intuition,18.37698412698413
+477,72,word choice,6.625
+69,1,reading comprehension test,69.0
+19,2,human instructor,9.5
+110,2,word grammar,55.0
+17204,952,database,18.07142857142857
+172,5,text information,34.4
+220,23,figurative language,9.565217391304348
+25,1,answer sequence,25.0
+87,6,relevant literature,14.5
+8,2,subject number,4.0
+8,1,object line,8.0
+745,10,scoping,74.5
+10,1,extensive presentation,10.0
+262,4,third step,65.5
+97,1,first analysis,97.0
+137,35,vocalization,3.914285714285714
+4,1,minimal score,4.0
+297,1,similar sentence,297.0
+962,153,programming language,6.287581699346405
+99,2,subcomponents,49.5
+70,2,individual task,35.0
+57137,326,evaluation,175.2668711656442
+34,4,test feature,8.5
+473,2,search strategy,236.5
+3,2,character structure,1.5
+50,6,business intelligence,8.333333333333334
+843,1,testing data,843.0
+7,2,connection information,3.5
+140,6,sample data,23.33333333333333
+218,16,negative opinion,13.625
+254,129,whole process,1.968992248062015
+3,1,sentence formulation,3.0
+928,15,data source,61.86666666666667
+48,1,different dialog,48.0
+8,1,hindi grammar,8.0
+155,15,appropriate level,10.33333333333333
+107,35,online resource,3.057142857142857
+1059,223,usability,4.748878923766816
+105,2,principal component analysis,52.5
+61,1,sequence data,61.0
+313,6,computer interaction,52.16666666666666
+87,2,similar number,43.5
+8,1,review committee,8.0
+49,2,n400,24.5
+124,2,positive data,62.0
+61,1,interesting application,61.0
+94616,8503,table,11.12736681171351
+7,1,measure space,7.0
+6501,29,prefix,224.1724137931035
+64,1,application context,64.0
+2359,246,membership,9.589430894308943
+12675,29,preposition,437.0689655172414
+441,3,international conference,147.0
+381,2,compression rate,190.5
+11339,1407,variation,8.058990760483297
+18,2,quality control method,9.0
+214,5,general method,42.8
+42,1,previous query,42.0
+427614,29173,word,14.65786857710897
+19359,5612,theory,3.449572344975053
+28,1,reading behavior,28.0
+14,1,footnote material,14.0
+9,1,system robustness,9.0
+50,2,system language,25.0
+411,7,reformulation,58.71428571428572
+615,7,optimal solution,87.85714285714286
+192,3,second question,64.0
+20,7,john wiley,2.857142857142857
+23,1,string substitution,23.0
+8,3,paper collection,2.666666666666667
+1188,1,machine learning technique,1188.0
+15,1,source format,15.0
+227,9,particular application,25.22222222222222
+18853,10658,amount,1.768905986113717
+40,1,syntax structure,40.0
+40,3,devanagari script,13.33333333333333
+28,13,antibody,2.153846153846154
+401,4,world model,100.25
+55,3,actual output,18.33333333333333
+38520,178,query,216.4044943820225
+153,2,evaluation system,76.5
+50,12,significant information,4.166666666666667
+2326,1,objective function,2326.0
+48,2,text interpretation,24.0
+17,1,idiomatic translation,17.0
+66,2,document information,33.0
+36,2,perfect aspect,18.0
+52,11,logical approach,4.727272727272728
+1161,5,first experiment,232.2
+972,3,cardinality,324.0
+718,24,different context,29.91666666666667
+172,25,original paper,6.88
+9412,2079,mechanism,4.527176527176527
+154,14,input source,11.0
+707,1,order model,707.0
+597,96,denominator,6.21875
+3,1,ambiguous diagram,3.0
+29,1,embeddedness,29.0
+91,24,final answer,3.791666666666667
+5,1,sample paragraph,5.0
+211,50,necessary information,4.22
+240,3,timestamp,80.0
+10143,1866,layer,5.435691318327974
+46,1,optimal word,46.0
+124561,5094,method,24.45249312917158
+13,7,queensland,1.857142857142857
+3,1,informational aspect,3.0
+139,1,performance comparison,139.0
+98,1,language interpretation,98.0
+20,1,research strategy,20.0
+111,1,linguistic content,111.0
+26,1,accuracy change,26.0
+89,2,latin alphabet,44.5
+55123,2102,tag,26.22407231208373
+97,6,right bracket,16.16666666666667
+1068,3,base form,356.0
+2539,220,committee,11.54090909090909
+21,1,sample utterance,21.0
+4386,2,determiner,2193.0
+22,4,dynamic approach,5.5
+12585,7488,situation,1.680689102564103
+17,1,word processing system,17.0
+18,12,software testing,1.5
+146,3,shared knowledge,48.66666666666666
+9221,1539,row,5.991552956465237
+29,3,presentation mode,9.666666666666666
+49,14,comprehensiveness,3.5
+190,68,rapport,2.794117647058823
+560,1,first argument,560.0
+46,1,example graph,46.0
+179,1,basic algorithm,179.0
+1534,126,current state,12.17460317460317
+99,9,chinese dictionary,11.0
+78,22,current technology,3.545454545454545
+267,30,same system,8.9
+746,9,different value,82.88888888888889
+180,1,predictive model,180.0
+5,2,northern illinois university,2.5
+798,36,such information,22.16666666666667
+136,1,length constraint,136.0
+45,2,geographical information,22.5
+77,5,experimental method,15.4
+418,4,event time,104.5
+61,3,implementation issue,20.33333333333333
+138,6,lexis,23.0
+68,3,regular income,22.66666666666667
+18,1,frame number,18.0
+6046,34,transducer,177.8235294117647
+11552,1575,scope,7.334603174603175
+3,1,caffeine headache,3.0
+119,4,single text,29.75
+102,22,set theory,4.636363636363637
+11,7,product search,1.571428571428571
+33844,124,lexicon,272.9354838709677
+2,1,logical tone,2.0
+9,1,keystroke sequence,9.0
+1545,2,negative example,772.5
+12,1,werde,12.0
+11,5,cognitive development,2.2
+54,1,general sentence,54.0
+83,10,specific approach,8.3
+3,2,scientific statement,1.5
+10,1,erps,10.0
+42,2,second solution,21.0
+2537,16,urdu,158.5625
+222,1,nlp component,222.0
+909,43,single sentence,21.13953488372093
+8,1,superlative degree,8.0
+448,6,first term,74.66666666666667
+160,1,problematic case,160.0
+424,1,second argument,424.0
+56,1,algorithmic approach,56.0
+464,1,standard annotation,464.0
+83,3,actual system,27.66666666666667
+1000,170,brevity,5.882352941176471
+36,1,function definition,36.0
+156,1,relational data,156.0
+22,1,salient difference,22.0
+108,1,initial study,108.0
+29274,3124,chinese,9.370678617157491
+58,1,euclidean space,58.0
+894,30,new method,29.8
+48,11,single test,4.363636363636363
+19,9,bien que,2.111111111111111
+4980,1,lexical item,4980.0
+69,1,metaphorical meaning,69.0
+115,2,language knowledge,57.5
+178,22,bioinformatics,8.090909090909092
+905,2,translation process,452.5
+12,3,french model,4.0
+276,32,mobile device,8.625
+12,1,flat approach,12.0
+22,1,structure change,22.0
+14550,1580,interaction,9.208860759493671
+1121,2,adjacency,560.5
+202,12,text quality,16.83333333333333
+79,1,electronic submission,79.0
+15,3,course design,5.0
+3652,216,coordination,16.90740740740741
+145,1,comprehensibility,145.0
+50,3,formal approach,16.66666666666667
+276,1,statistical learning,276.0
+75,4,video data,18.75
+443,3,xle,147.6666666666667
+28,1,problem sentence,28.0
+230,1,syntactic theory,230.0
+6,1,japanese sentence structure,6.0
+7246,5,referent,1449.2
+328,8,computer vision,41.0
+26,1,source element,26.0
+245,1,frequency list,245.0
+191,4,underlying structure,47.75
+969,58,linkage,16.70689655172414
+50,5,intuitive sense,10.0
+6,1,definite distinction,6.0
+21,1,chinese room,21.0
+64,1,appropriate representation,64.0
+10,4,age appropriateness,2.5
+13,2,optimal form,6.5
+17,6,grammar problem,2.833333333333333
+5,1,slovene language,5.0
+42,7,individual case,6.0
+278,33,bulgaria,8.424242424242424
+2,1,specific poster,2.0
+86,2,wikipedias,43.0
+44,2,second text,22.0
+5,1,example command,5.0
+76889,18639,level,4.125167659209185
+284,6,related concept,47.33333333333334
+232,8,language structure,29.0
+1281,38,full text,33.71052631578947
+5,1,family grouping,5.0
+6,1,indexing problem,6.0
+62,7,english alphabet,8.857142857142858
+105,4,causal relationship,26.25
+104,1,overall system performance,104.0
+532,38,clef,14.0
+334,1,ranking task,334.0
+47,13,distance relationship,3.615384615384615
+948,5,overall accuracy,189.6
+16,7,mother language,2.285714285714286
+21,2,idiomatic use,10.5
+661,26,hyphen,25.42307692307692
+54031,7899,process,6.840232940878592
+391,2,finite number,195.5
+313,14,type information,22.35714285714286
+1348,309,user interface,4.362459546925566
+40,1,text context,40.0
+9,3,interface problem,3.0
+796,4,fsa,199.0
+18,2,empirical science,9.0
+36,1,korean text,36.0
+400,2,absolute value,200.0
+490,4,overall system,122.5
+7470,1,wsd,7470.0
+150,2,reference data,75.0
+2,1,component issue,2.0
+64,2,multiple choice test,32.0
+65,3,novel information,21.66666666666667
+3598,6,relatedness,599.6666666666666
+86,7,european portuguese,12.28571428571429
+844,3,dictionary entry,281.3333333333333
+24,4,distinct sense,6.0
+19,3,income inequality,6.333333333333333
+99060,1209,relation,81.93548387096774
+216,2,ungrammatical sentence,108.0
+98,7,theoretical background,14.0
+613,116,english speaker,5.28448275862069
+85,11,type error,7.727272727272728
+4,1,overall learning process,4.0
+429,12,real number,35.75
+7152,2456,environment,2.912052117263844
+354,4,superset,88.5
+118,1,gaussian process,118.0
+1156,14,statistical method,82.57142857142857
+6,1,linguistics article,6.0
+158,1,genotype,158.0
+2927,92,intersection,31.81521739130435
+75584,25390,order,2.976920047262702
+18,2,semitone,9.0
+146,1,geolocation,146.0
+123,5,accentuation,24.6
+14,2,individual plan,7.0
+60,18,complete agreement,3.333333333333333
+109,3,common method,36.33333333333334
+2527,18,prolog,140.3888888888889
+56,1,utrecht,56.0
+11,2,tokyo university,5.5
+2329,32,chiang,72.78125
+701,168,sorting,4.172619047619047
+30,1,process description,30.0
+32,1,data exploration,32.0
+63,15,human behaviour,4.2
+1494,226,validity,6.610619469026549
+1637,12,data point,136.4166666666667
+314,1,subjective sentence,314.0
+109,8,particular text,13.625
+22,1,class experiment,22.0
+1984,41,lookup,48.39024390243902
+76,26,limited vocabulary,2.923076923076923
+45,1,calculation method,45.0
+36,15,second paragraph,2.4
+192,1,false positive rate,192.0
+36,2,character information,18.0
+48,1,training machine,48.0
+68,5,manual process,13.6
+113,1,exponential time,113.0
+120,11,spanish text,10.90909090909091
+91,2,applicable rule,45.5
+19,3,many keywords,6.333333333333333
+91,9,particular value,10.11111111111111
+836,47,acknowledgment,17.78723404255319
+138,4,theoretical analysis,34.5
+608,9,factuality,67.55555555555556
+504,4,research area,126.0
+34,3,high quality output,11.33333333333333
+136,3,second language acquisition,45.33333333333334
+9,1,link effect,9.0
+55,10,new solution,5.5
+52,3,speech style,17.33333333333333
+151,59,actual text,2.559322033898305
+13,4,edit text,3.25
+233,10,new application,23.3
+20,2,focus mechanism,10.0
+3,1,endocrinol,3.0
+12,1,type map,12.0
+21119,2,test set,10559.5
+1547,2,different domain,773.5
+125,2,conceptual information,62.5
+20,4,appropriate content,5.0
+363,1,clustering technique,363.0
+238,1,sense number,238.0
+16,1,heuristic value,16.0
+74930,2015,document,37.18610421836228
+7,2,implementation approach,3.5
+39,2,unique class,19.5
+507,1,linear order,507.0
+482,1,evaluation criterion,482.0
+78,5,simple procedure,15.6
+2073,7,dynamic programming,296.1428571428572
+113514,5709,approach,19.88334209143458
+212,1,topic change,212.0
+52,9,collaborative work,5.777777777777778
+6,1,universal concept,6.0
+202,1,spelling variation,202.0
+38,4,basic data structure,9.5
+232,16,whole text,14.5
+702,1,news text,702.0
+30,1,declarative statement,30.0
+4,1,satellite launch,4.0
+241,1,prediction problem,241.0
+258,2,case information,129.0
+169,2,relevant concept,84.5
+46,1,speech process,46.0
+404,2,individual sentence,202.0
+369,1,user interaction,369.0
+24,4,grammar example,6.0
+76,30,design process,2.533333333333333
+1541,895,sketch,1.721787709497207
+175,8,original question,21.875
+50,2,system module,25.0
+561,15,placeholder,37.4
+17,8,conversationalist,2.125
+177,3,ongoing research,59.0
+152,8,review text,19.0
+1105,37,argumentation,29.86486486486486
+94,2,complex data,47.0
+2,1,assignment deadline,2.0
+175,75,randomness,2.333333333333333
+150,1,monolingual dictionary,150.0
+371,2,french sentence,185.5
+7433,1,morpheme,7433.0
+327,74,siegel,4.418918918918919
+1158,2,correlation coefficient,579.0
+12241,322,modeling,38.01552795031056
+120,5,optimal result,24.0
+50,8,fundamental idea,6.25
+94,13,unavailability,7.230769230769231
+4369,1367,intention,3.196049743964887
+3718,9,perplexity,413.1111111111111
+2742,9,ellipsis,304.6666666666667
+7645,2545,community,3.003929273084479
+24,1,previous solution,24.0
+334,24,new topic,13.91666666666667
+183,3,logical analysis,61.0
+114,61,personal information,1.868852459016394
+11,1,bibliographic data,11.0
+6,1,successful event,6.0
+5,1,metaphor usage,5.0
+516,4,system level,129.0
+215,2,indexer,107.5
+4,1,ontology work,4.0
+167,2,infinitive form,83.5
+106,1,cognitive effort,106.0
+736,192,product review,3.833333333333333
+694,170,spam,4.08235294117647
+3,2,lumpectomy,1.5
+3,2,column layout,1.5
+78,1,word semantics,78.0
+126,1,tactic analysis,126.0
+28,1,information processing system,28.0
+14,4,map location,3.5
+9580,3016,formula,3.176392572944297
+13,2,individual approach,6.5
+94,1,sampling approach,94.0
+485,265,nasal,1.830188679245283
+36,3,database object,12.0
+5,1,constructive input,5.0
+41,1,simplex method,41.0
+173,2,correct output,86.5
+300,4,random sampling,75.0
+63,2,simple context,31.5
+4,1,usable text,4.0
+71,1,preposition usage,71.0
+11,1,post text,11.0
+1124,2,ances,562.0
+20,4,movie data,5.0
+170,3,type theory,56.66666666666666
+17,10,gender bias,1.7
+117,1,conversational partner,117.0
+15,2,search functionality,7.5
+13,2,rote learning,6.5
+792,7,language use,113.1428571428571
+121,1,robot interaction,121.0
+28,1,lanham,28.0
+50,11,process information,4.545454545454546
+10,2,specific syntax,5.0
+2,1,centric company,2.0
+232,11,cambridge university,21.09090909090909
+7,1,lexicographical work,7.0
+146,3,main memory,48.66666666666666
+176,1,computational work,176.0
+19,3,second speaker,6.333333333333333
+46,11,basic sentence,4.181818181818182
+11,1,resource problem,11.0
+32,1,suicide risk,32.0
+110,1,event information,110.0
+27,1,protein structure,27.0
+16,1,alignment effect,16.0
+882,42,tradeoff,21.0
+268,16,effective method,16.75
+94,4,objective evaluation,23.5
+6331,26,twitter,243.5
+58,1,explicit knowledge,58.0
+11486,409,learner,28.08312958435208
+4,2,concise oxford dictionary,2.0
+75,3,english sense,25.0
+16,2,cognitive approach,8.0
+68,42,emotional content,1.619047619047619
+67,1,global approach,67.0
+59,1,student input,59.0
+25,1,practicability,25.0
+49383,24,parsing,2057.625
+52,1,basic relation,52.0
+1600,415,inconsistency,3.855421686746988
+33,1,experimental analysis,33.0
+5653,222,paradigm,25.46396396396396
+999,397,browser,2.516372795969773
+2455,1,tree structure,2455.0
+133,5,example text,26.6
+104,1,visualization tool,104.0
+100,1,iterative approach,100.0
+37,2,content provider,18.5
+395,47,commonality,8.404255319148936
+58330,14652,question,3.981026481026481
+32,3,english native speaker,10.66666666666667
+106,3,chicago press,35.33333333333334
+2732,27,integer,101.1851851851852
+10,2,word processing software,5.0
+8,1,logical scene,8.0
+7,1,html interface,7.0
+10930,2711,other hand,4.031722611582442
+299,4,correct sentence,74.75
+2,1,description area,2.0
+481,15,simple method,32.06666666666667
+88,4,full context,22.0
+10,2,second matrix,5.0
+768,1,search query,768.0
+3674,113,formulation,32.51327433628319
+258,3,arbitrary number,86.0
+58,14,debugger,4.142857142857143
+38,1,usability evaluation,38.0
+89,4,hypermedia,22.25
+203,45,social interaction,4.511111111111111
+435,1,inner product,435.0
+116,37,basic set,3.135135135135135
+25,1,bad label,25.0
+167,2,necessary condition,83.5
+1088,596,collaboration,1.825503355704698
+68,3,word replacement,22.66666666666667
+1499,536,english language,2.796641791044776
+611,2,input feature,305.5
+32293,618,precision,52.25404530744336
+1746,1,human judgment,1746.0
+45,1,istituto,45.0
+83,2,integer programming,41.5
+6494,493,punctuation,13.17241379310345
+10713,7,datasets,1530.428571428571
+7,1,relevant comment,7.0
+2,1,mixed feedback,2.0
+447,27,current research,16.55555555555556
+301,4,correct label,75.25
+6,1,bibliography section,6.0
+34,3,constructive feedback,11.33333333333333
+84,23,single copy,3.652173913043478
+48,1,reference paper,48.0
+5761,379,methodology,15.20052770448549
+208,15,screenshot,13.86666666666667
+563,10,information state,56.3
+1240,16,random walk,77.5
+29,1,example information,29.0
+6485,67,decoder,96.7910447761194
+241,5,first study,48.2
+1615,18,dimensionality,89.72222222222223
+2,1,scala programming language,2.0
+491,3,indirect object,163.6666666666667
+22474,3369,network,6.670822202433957
+122,1,data acquisition,122.0
+18,2,oracle function,9.0
+514,194,important information,2.649484536082474
+339,1,significance level,339.0
+11439,6861,understanding,1.667249672059467
+8,2,vulgate,4.0
+4,1,implicit statement,4.0
+348,3,expressivity,116.0
+170,2,matrix multiplication,85.0
+45,26,intranet,1.730769230769231
+296,5,semitic language,59.2
+1534,15,presupposition,102.2666666666667
+151,4,lal,37.75
+24,2,possible point,12.0
+10023,2052,principle,4.884502923976608
+2900,177,theorem,16.38418079096045
+1334,15,wikipedia article,88.93333333333334
+81,2,function type,40.5
+316,41,character set,7.707317073170731
+1952,6,pereira,325.3333333333333
+4,2,use irony,2.0
+182,1,machine reading,182.0
+8,2,program state,4.0
+36,24,aramaic,1.5
+532,1,logarithm,532.0
+905,3,distractors,301.6666666666667
+992,10,next word,99.2
+13206,3,training set,4402.0
+5,1,pipeline design,5.0
+16,1,content table,16.0
+904,62,ming,14.58064516129032
+33,1,grammatical complexity,33.0
+105,10,copyright notice,10.5
+22,1,xml input,22.0
+7,2,relevant history,3.5
+101,1,designators,101.0
+31,2,pattern information,15.5
+11,1,statistical speech recognition,11.0
+62,1,qualitative difference,62.0
+935,490,omission,1.908163265306122
+117,10,human intelligence,11.7
+104,3,convex hull,34.66666666666666
+79,2,particular combination,39.5
+127,1,utility function,127.0
+188,6,action item,31.33333333333333
+429,37,mental state,11.59459459459459
+289,77,step process,3.753246753246753
+36,23,simple process,1.565217391304348
+9,1,russian system,9.0
+20,2,transcription accuracy,10.0
+1308,62,runtime,21.09677419354839
+45,1,text match,45.0
+22,1,precision problem,22.0
+21,4,input line,5.25
+4,2,adult input,2.0
+132,3,factor analysis,44.0
+750,3,spatial relation,250.0
+274,64,reference point,4.28125
+26,17,check point,1.529411764705882
+23,1,application information,23.0
+23,2,remit,11.5
+19,1,insufficient context,19.0
+6238,1398,communication,4.4620886981402
+2539,7,feature function,362.7142857142857
+1939,355,landmark,5.461971830985916
+161,1,input file,161.0
+153,10,subsequent work,15.3
+574,5,truth value,114.8
+737,2,first sense,368.5
+284,2,content analysis,142.0
+25,1,example error,25.0
+21,3,appropriate topic,7.0
+16,6,biological evolution,2.666666666666667
+21,2,ongoing conversation,10.5
+7,3,intuitive user interface,2.333333333333333
+19,4,complex interplay,4.75
+5,1,comprehensible way,5.0
+2199,1280,miller,1.71796875
+16,1,text markup,16.0
+7045,72,transliteration,97.84722222222223
+1000,6,input data,166.6666666666667
+727,7,random sample,103.8571428571429
+3,1,bridgeman art library,3.0
+93,1,word training,93.0
+129,11,much data,11.72727272727273
+995,3,language sentence,331.6666666666667
+2582,19,subjectivity,135.8947368421053
+6,4,paxil,1.5
+123,1,effect relation,123.0
+49,9,basic definition,5.444444444444445
+14747,138,linguistics,106.8623188405797
+47,21,action set,2.238095238095238
+108,11,step procedure,9.818181818181818
+198,76,shapiro,2.605263157894737
+160,1,indefinite article,160.0
+459,25,difficult problem,18.36
+26,1,intelligence analyst,26.0
+496,189,last name,2.624338624338624
+1602,51,hearst,31.41176470588235
+20,3,theoretical insight,6.666666666666667
+320,2,isomorphism,160.0
+60,13,von neumann,4.615384615384615
+310,1,translation method,310.0
+144,1,computational tool,144.0
+33538,6584,dialogue,5.093863912515189
+165,2,numeric value,82.5
+17,1,computing science,17.0
+203,4,quantitative analysis,50.75
+102,64,current time,1.59375
+8809,1,computational linguistics,8809.0
+4917,2,cosine,2458.5
+819,2,annual meeting,409.5
+36,6,mathematical theory,6.0
+235,2,initial value,117.5
+1611,41,prior work,39.29268292682926
+32435,8579,answer,3.780743676419163
+243,3,polanyi,81.0
+512,87,continuum,5.885057471264368
+803,265,new model,3.030188679245283
+1380,1,language technology,1380.0
+31,1,binomial model,31.0
+520,2,character word,260.0
+52,3,testing material,17.33333333333333
+45911,4239,pattern,10.83062042934654
+142,4,champollion,35.5
+80,4,vax,20.0
+111,2,optimal weight,55.5
+1024,76,plausibility,13.47368421052632
+48,1,word lookup,48.0
+402,5,homogeneity,80.4
+13,1,third text,13.0
+786,3,lish,262.0
+1838,3,window size,612.6666666666666
+306,11,model use,27.81818181818182
+9,1,straightforward model,9.0
+92066,471,verb,195.4692144373673
+288,9,translation problem,32.0
+2306,125,url,18.448
+64,4,possible method,16.0
+32,4,product data,8.0
+25,5,basic dictionary,5.0
+14,1,contextual understanding,14.0
+20,1,eds,20.0
+562,1,text collection,562.0
+21,1,incremental manner,21.0
+112,1,application program,112.0
+102266,30057,case,3.402402102671591
+66,1,tree traversal,66.0
+13,2,server model,6.5
+22,2,abstract information,11.0
+8,3,date data,2.666666666666667
+384,3,posteriori,128.0
+393,1,empty set,393.0
+26073,4983,position,5.232390126429862
+12,4,mediante,3.0
+33,4,original sequence,8.25
+30,3,specific measure,10.0
+557,1,generative process,557.0
+88,3,second language learning,29.33333333333333
+79,3,japanese term,26.33333333333333
+570,133,other information,4.285714285714286
+132,3,circularity,44.0
+30,5,debugging tool,6.0
+17,1,vision research,17.0
+237,4,specific text,59.25
+307,6,graphical user,51.16666666666666
+24,7,tonal language,3.428571428571428
+27275,2202,goal,12.38646684831971
+265,3,structure information,88.33333333333333
+3759,511,terminology,7.356164383561643
+46,1,debate topic,46.0
+11,2,ascii representation,5.5
+94,3,present case,31.33333333333333
+277,11,whitespace,25.18181818181818
+125,4,correct response,31.25
+57,9,assistant professor,6.333333333333333
+41,1,single sample,41.0
+21,1,particular resource,21.0
+13,6,whole passage,2.166666666666667
+2,1,sterling job,2.0
+10,3,cognitive neuroscience,3.333333333333333
+2,1,xml work,2.0
+68,1,single framework,68.0
+271,1,digraph,271.0
+63,12,first principle,5.25
+49,1,interactive question,49.0
+43,3,quantitative method,14.33333333333333
+72,2,verbal expression,36.0
+202,1,alignment system,202.0
+16,7,recognition work,2.285714285714286
+50,1,reference frame,50.0
+84,2,human input,42.0
+202,1,candidate selection,202.0
+162,3,length limit,54.0
+1947,32,word list,60.84375
+472,1,relevant feature,472.0
+87,2,respective language,43.5
+11,2,postal code,5.5
+48,8,journal paper,6.0
+3,1,perfect measurement,3.0
+101,1,name dictionary,101.0
+6,1,music database,6.0
+3317,2,recognizer,1658.5
+19,1,initial location,19.0
+34,4,subject word,8.5
+44,1,data space,44.0
+18,5,bpr,3.6
+19254,3516,construction,5.476109215017065
+111,2,new structure,55.5
+205,2,performance evaluation,102.5
+36,20,visual presentation,1.8
+8,1,particular act,8.0
+2,1,background processing,2.0
+85,1,sociolinguistics,85.0
+2,1,training format,2.0
+186,5,initiator,37.2
+345,9,dtd,38.33333333333334
+546,88,simple word,6.204545454545454
+16,1,transformational generative grammar,16.0
+12,1,algebraic approach,12.0
+289,4,average value,72.25
+2,1,commentary chapter,2.0
+36,5,namespaces,7.2
+12,7,paper format,1.714285714285714
+30,20,advanced study,1.5
+13,2,paradigm system,6.5
+126,1,comparative sentence,126.0
+10148,1349,objective,7.522609340252038
+391,256,hayes,1.52734375
+16,1,visual vocabulary,16.0
+638,3,new sentence,212.6666666666667
+93,58,video recording,1.603448275862069
+86,45,scientific community,1.911111111111111
+1159,160,intonation,7.24375
+3,1,post structure,3.0
+528,26,selection process,20.30769230769231
+2744,2,salience,1372.0
+20,1,experimental psychology,20.0
+37,1,ontology engineering,37.0
+2,1,neuroscience research,2.0
+475,3,sentence type,158.3333333333333
+7,4,huac,1.75
+18,1,basic methodology,18.0
+210,6,particular sentence,35.0
+146,2,keyword search,73.0
+195,1,derivation step,195.0
+101,2,text summary,50.5
+195,44,workspace,4.431818181818182
+22,4,subject focus,5.5
+26,12,south asia,2.166666666666667
+59,1,verb definition,59.0
+13,1,feedback function,13.0
+140,7,graph theory,20.0
+123,77,robotics,1.597402597402597
+31,2,simple framework,15.5
+40,1,reference implementation,40.0
+11,5,check item,2.2
+117,5,single instance,23.4
+21,1,location data,21.0
+7,1,hindi alphabet,7.0
+412,6,homophone,68.66666666666667
+275,2,training approach,137.5
+2,1,action formula,2.0
+341,4,significant effect,85.25
+1314,6,language resource,219.0
+2816,4,granularity,704.0
+420,8,simple model,52.5
+8,1,initial form,8.0
+3,1,computing series,3.0
+120,4,trustworthiness,30.0
+1086,31,capitalization,35.03225806451613
+721,1,confi,721.0
+156,1,data sample,156.0
+8,1,indexing procedure,8.0
+80,3,idp,26.66666666666667
+43,1,learning methodology,43.0
+48,4,relevant research,12.0
+98,1,user knowledge,98.0
+9,1,present workshop,9.0
+61,1,query structure,61.0
+123,1,such study,123.0
+737,474,manuscript,1.554852320675105
+3,1,patient character,3.0
+18,2,dissimilation,9.0
+402,2,low probability,201.0
+301,17,relevancy,17.70588235294118
+124,4,meaningful word,31.0
+6,2,pinyin romanization,3.0
+16,2,document object model,8.0
+251,71,product name,3.535211267605634
+57,1,conditional interpretation,57.0
+1363,5,normal form,272.6
+1575,17,antonym,92.6470588235294
+65356,3115,analysis,20.98105939004816
+82,1,sentence basis,82.0
+103,16,paragraph break,6.4375
+25,1,finnish language,25.0
+116,3,text field,38.66666666666666
+225,3,cognitive process,75.0
+41,5,available evidence,8.2
+867,138,same topic,6.282608695652174
+41,1,information space,41.0
+530,2,distractor,265.0
+4733,2737,overview,1.729265619291195
+5,2,robot work,2.5
+5389,360,large number,14.96944444444444
+695,1,computational complexity,695.0
+29,1,principle component,29.0
+5,2,geography question,2.5
+1340,76,overall performance,17.63157894736842
+274,3,application area,91.33333333333333
+161,73,madrid,2.205479452054794
+560,3,further analysis,186.6666666666667
+15461,115,derivation,134.4434782608696
+3,1,funny category,3.0
+9,1,mentoring program,9.0
+50,2,data example,25.0
+8,1,departure location,8.0
+178,28,fundamental problem,6.357142857142857
+53389,9149,event,5.835501147666411
+47,2,significant interaction,23.5
+795,2,time expression,397.5
+13,1,web faq,13.0
+7225,1203,feedback,6.005818786367414
+258,29,system design,8.89655172413793
+16,1,nlp information,16.0
+176,14,german text,12.57142857142857
+31,1,seed model,31.0
+19,1,extended example,19.0
+52,3,prioritization,17.33333333333333
+322,2,numerator,161.0
+24,6,inconsistent information,4.0
+299,11,first system,27.18181818181818
+488,16,original document,30.5
+79,21,small text,3.761904761904762
+30826,13192,subject,2.336719223771983
+10479,984,chunk,10.64939024390244
+28846,11391,content,2.532350100956896
+12,1,dimensional map,12.0
+149,6,software system,24.83333333333333
+7,2,present collection,3.5
+11,4,incorrect data,2.75
+429,6,same context,71.5
+271,16,average performance,16.9375
+108,2,simple grammar,54.0
+32,1,grammar use,32.0
+103,5,historical linguistics,20.6
+12,1,indian institute,12.0
+567,8,performance improvement,70.875
+3000,5,previous section,600.0
+430,4,previous example,107.5
+9,1,fortran program,9.0
+6,3,oakland university,2.0
+14357,2833,root,5.067772679138722
+82,1,validation procedure,82.0
+25,5,repeatability,5.0
+1547,94,generality,16.45744680851064
+42,2,correction problem,21.0
+7930,2234,engine,3.549686660698299
+109,1,model sentence,109.0
+134,8,html document,16.75
+2,1,process solution,2.0
+470,3,gerund,156.6666666666667
+6,2,didactic tool,3.0
+78,46,human brain,1.695652173913043
+208,9,sufficient information,23.11111111111111
+2692,27,huang,99.70370370370371
+382,2,correct analysis,191.0
+121,2,runtimes,60.5
+490,180,uniqueness,2.722222222222222
+385,32,word sentence,12.03125
+1601,8,bilingual dictionary,200.125
+215,1,optimality theory,215.0
+5,1,paper alignment,5.0
+546,58,efficacy,9.413793103448276
+72,2,imprecision,36.0
+46,2,system version,23.0
+472,9,grammatical structure,52.44444444444444
+85,8,cognitive psychology,10.625
+400,2,system response,200.0
+1857,2,direct object,928.5
+47,1,type sentence,47.0
+526,1,reduplication,526.0
+258,4,such text,64.5
+365,4,guesser,91.25
+208,3,imperfective,69.33333333333333
+89,5,topic sentence,17.8
+2264,14,polynomial,161.7142857142857
+26215,3595,article,7.292072322670376
+20818,3996,sample,5.20970970970971
+13,2,spanish arabic,6.5
+145,6,specific category,24.16666666666667
+10913,232,fragment,47.03879310344828
+10,1,content accuracy,10.0
+65,9,informational content,7.222222222222222
+1699,51,stimulus,33.31372549019608
+7,1,academic english,7.0
+58,2,conscientiousness,29.0
+349,4,previous system,87.25
+9,1,particular use case,9.0
+370,69,american english,5.36231884057971
+117,2,estimation technique,58.5
+403,1,monotonically,403.0
+152,2,spatial relationship,76.0
+4,1,course curriculum,4.0
+41,23,greek text,1.782608695652174
+69,2,database table,34.5
+21,6,desarrollo,3.5
+66,5,crucial issue,13.2
+35,7,easy problem,5.0
+73,2,blogosphere,36.5
+44,1,situation theory,44.0
+15763,5190,solution,3.037186897880539
+34,18,correct model,1.888888888888889
+644,15,correct word,42.93333333333333
+2180,7,active learning,311.4285714285714
+297,16,important problem,18.5625
+67,1,specific interpretation,67.0
+206,42,interested reader,4.904761904761905
+82,1,relevant content,82.0
+1629,27,variability,60.33333333333334
+23,1,imperfective aspect,23.0
+214,2,main approach,107.0
+56,19,phraseology,2.947368421052631
+706,178,decision making,3.966292134831461
+56,4,content quality,14.0
+144,4,relevant context,36.0
+82,1,input information,82.0
+155,11,test material,14.09090909090909
+5,1,objective content,5.0
+2011,4,statistical model,502.75
+515,80,useful feature,6.4375
+60,18,korean language,3.333333333333333
+5129,109,large scale,47.05504587155963
+1278,62,artificial intelligence,20.61290322580645
+49,1,mapping problem,49.0
+56,1,lisp function,56.0
+1463,12,standard deviation,121.9166666666667
+19,1,level interface,19.0
+298,6,intended meaning,49.66666666666666
+780,1,opinion word,780.0
+173,7,useful discussion,24.71428571428572
+205,8,alignment problem,25.625
+10,1,example match,10.0
+7,2,manageable level,3.5
+126,1,textual context,126.0
+145,1,probabilistic method,145.0
+29,1,text approach,29.0
+231,6,low number,38.5
+1045,1,subsumption,1045.0
+9,1,visual clutter,9.0
+192,3,correct alignment,64.0
+468,286,early work,1.636363636363636
+16,1,collaborative process,16.0
+28,7,useful approach,4.0
+47,1,demo session,47.0
+2626,1,word type,2626.0
+114,1,current turn,114.0
+382,42,latency,9.095238095238095
+4896,1,learning algorithm,4896.0
+54,3,internet search engine,18.0
+111,1,voting method,111.0
+10,1,tel aviv university,10.0
+475,13,confidence level,36.53846153846154
+8,3,quantitative research,2.666666666666667
+157,1,reference word,157.0
+133,4,reasonable performance,33.25
+12366,2453,evidence,5.041174072564207
+227,3,translation dictionary,75.66666666666667
+20,6,ampersand,3.333333333333333
+33,1,conference program,33.0
+2337,154,comma,15.17532467532468
+341,2,delimiters,170.5
+188,1,positive correlation,188.0
+124,59,writing process,2.101694915254237
+1105,126,second language,8.76984126984127
+10,1,final shape,10.0
+97,48,propensity,2.020833333333333
+28,1,language script,28.0
+83,1,relevant entity,83.0
+954,30,social network,31.8
+658,3,mit press,219.3333333333333
+56,1,particular information,56.0
+435,196,reading level,2.219387755102041
+31,1,raw output,31.0
+168,68,brief introduction,2.470588235294118
+1098,162,rationale,6.777777777777778
+48,22,concise summary,2.181818181818182
+125,12,incoherence,10.41666666666667
+20,2,time study,10.0
+101,3,particular concept,33.66666666666666
+3700,1,information extraction,3700.0
+182,1,extraction procedure,182.0
+356,104,response time,3.423076923076923
+43,1,lisp program,43.0
+183,45,hermann,4.066666666666666
+469,1,transitive closure,469.0
+275,3,dictionary word,91.66666666666667
+7294,441,conjunction,16.53968253968254
+140,1,fundamental frequency,140.0
+23,10,game data,2.3
+56,12,source information,4.666666666666667
+1317,143,additional information,9.20979020979021
+9,1,english phonology,9.0
+8,1,california institute,8.0
+76,4,further evaluation,19.0
+93,1,field value,93.0
+95,24,descriptive text,3.958333333333333
+195,8,expert user,24.375
+5940,849,metaphor,6.996466431095406
+15,1,target description,15.0
+1574,97,other system,16.22680412371134
+13,1,appropriate decision,13.0
+110,3,word concept,36.66666666666666
+2,1,mathematical complexity,2.0
+90171,375,ing,240.456
+474,12,large text,39.5
+7,1,equal access,7.0
+52,1,french system,52.0
+77,1,value feature,77.0
+11,1,exciting program,11.0
+540,5,latter case,108.0
+230,3,generative grammar,76.66666666666667
+59,1,important cue,59.0
+49,1,brown university,49.0
+330,14,amplitude,23.57142857142857
+151,20,personalization,7.55
+3,1,discussion purpose,3.0
+16,1,specific path,16.0
+22,1,name data,22.0
+1288,10,language text,128.8
+36,7,exchange information,5.142857142857143
+175,1,multiple inheritance,175.0
+105,8,level knowledge,13.125
+89,2,student model,44.5
+22,2,audio processing,11.0
+75,2,arabic side,37.5
+927,5,internal structure,185.4
+22,2,further input,11.0
+7,1,ongoing interaction,7.0
+101,3,standard system,33.66666666666666
+33,17,aliasing,1.941176470588235
+333,2,test text,166.5
+3,1,overall flexibility,3.0
+916,412,new information,2.223300970873786
+42,1,community structure,42.0
+25,2,system list,12.5
+61,1,specific algorithm,61.0
+9,1,generous contribution,9.0
+623,42,hyperlink,14.83333333333333
+1121,8,positive example,140.125
+273,3,constant time,91.0
+13,2,test video,6.5
+12971,139,correlation,93.31654676258992
+51,14,tedious task,3.642857142857143
+159,1,single value,159.0
+103,1,time phrase,103.0
+200,3,previous iteration,66.66666666666667
+503,1,event trigger,503.0
+5,2,physical interpretation,2.5
+13,1,difficult type,13.0
+3,2,calendar information,1.5
+88,1,model error,88.0
+51,27,edelman,1.888888888888889
+12,1,previous link,12.0
+80,2,linkedin,40.0
+4,1,special appreciation,4.0
+4979,14,normalization,355.6428571428572
+20,1,different permutation,20.0
+9331,827,notion,11.28295042321644
+159,3,language teaching,53.0
+36,1,robot system,36.0
+15,4,public discourse,3.75
+344,59,clinician,5.830508474576271
+1440,16,infinitive,90.0
+35,2,image database,17.5
+272,5,specific data,54.4
+198,1,space complexity,198.0
+6414,338,relevance,18.97633136094674
+94,1,incremental approach,94.0
+1139,3,leftmost,379.6666666666667
+79,12,complex example,6.583333333333333
+43488,1949,output,22.31298101590559
+726,271,portability,2.678966789667897
+23964,604,variable,39.67549668874172
+209,24,tableau,8.708333333333334
+25,3,speaker level,8.333333333333334
+28,3,rational agent,9.333333333333334
+254,7,enough data,36.28571428571428
+26,2,community effort,13.0
+53,3,royal society,17.66666666666667
+210,1,map task,210.0
+24,2,japanese writing system,12.0
+15,4,clear statement,3.75
+5019,434,xml,11.56451612903226
+72,2,different paradigm,36.0
+589,3,sgml,196.3333333333333
+39,1,original hypothesis,39.0
+706,90,forecast,7.844444444444444
+3448,2,viterbi,1724.0
+2559,156,redundancy,16.40384615384615
+7,1,much redundant information,7.0
+13751,1872,agent,7.345619658119658
+233,20,waveform,11.65
+30,1,relevant resource,30.0
+29,3,contextual analysis,9.666666666666666
+9421,2053,dialog,4.588894301022894
+205,2,dialogue turn,102.5
+5,1,george mason university,5.0
+81,7,possible score,11.57142857142857
+26,17,example look,1.529411764705882
+31,1,google query,31.0
+39,1,document type definition,39.0
+112,11,frege,10.18181818181818
+145,11,final sentence,13.18181818181818
+4164,626,pronunciation,6.651757188498403
+281,6,neologism,46.83333333333334
+109,1,computational framework,109.0
+346,2,general language,173.0
+9,1,xml namespaces,9.0
+26,3,evidence support,8.666666666666666
+651,86,malt,7.569767441860465
+19,11,useful overview,1.727272727272727
+23,4,fourth quarter,5.75
+24,4,original theory,6.0
+352,9,directionality,39.11111111111111
+3320,43,sig,77.20930232558139
+377,1,cloze,377.0
+2,1,conversation scenario,2.0
+59,3,research literature,19.66666666666667
+74,4,online text,18.5
+32,8,simple interface,4.0
+679,77,movie review,8.818181818181818
+92,4,body text,23.0
+1051,1,relevant document,1051.0
+9,6,sample image,1.5
+346,66,same length,5.242424242424242
+8290,77,feature set,107.6623376623377
+3618,5,hearer,723.6
+18,1,control application,18.0
+258,153,massachusetts,1.686274509803922
+19,2,pstn,9.5
+51,1,rule size,51.0
+37,1,molecular function,37.0
+36,1,realization process,36.0
+15,3,much variability,5.0
+37,3,human learning,12.33333333333333
+562,3,discourse analysis,187.3333333333333
+296,2,linguistic research,148.0
+206,6,total score,34.33333333333334
+144,42,sheffield,3.428571428571428
+75822,441,domain,171.9319727891156
+15,3,phrase choice,5.0
+1015,220,foreign language,4.613636363636363
+359,1,parsing method,359.0
+179,8,text entry,22.375
+32,8,practical method,4.0
+41,1,service user,41.0
+103,2,correct solution,51.5
+12,1,top pane,12.0
+1992,1,cision,1992.0
+27,1,minimal context,27.0
+191,4,acceptance rate,47.75
+301,5,input method,60.2
+10,1,character gender,10.0
+4,1,interrelatedness,4.0
+189,48,german language,3.9375
+10,1,automated support,10.0
+906,20,convolution,45.3
+10,2,coherent system,5.0
+47,3,paper dictionary,15.66666666666667
+19,1,foreign language text,19.0
+31,1,correct query,31.0
+12,1,value accuracy,12.0
+1424,117,first word,12.17094017094017
+161,1,question sentence,161.0
+81,7,model cost,11.57142857142857
+268,13,theoretical framework,20.61538461538462
+10,4,syracuse university,2.5
+230,8,empirical data,28.75
+156,2,topic structure,78.0
+13,4,default dictionary,3.25
+219,1,formal description,219.0
+9,1,document quality,9.0
+143,2,segment length,71.5
+251,11,significant increase,22.81818181818182
+18184,2358,interpretation,7.711620016963528
+36,2,high quality text,18.0
+5,1,suicide ideation,5.0
+144677,14006,text,10.32964443809796
+16,1,character link,16.0
+44,12,time order,3.666666666666667
+205,4,computational method,51.25
+180,5,system turn,36.0
+99,4,initial configuration,24.75
+429,1,score function,429.0
+195,1,interdependency,195.0
+5191,30,lingual,173.0333333333333
+7,1,function property,7.0
+38,6,first person plural,6.333333333333333
+148,6,large document,24.66666666666667
+15,1,single data structure,15.0
+610,1,word context,610.0
+1135,7,quantification,162.1428571428571
+29,1,input state,29.0
+19,3,physical structure,6.333333333333333
+172,4,narrative text,43.0
+5,1,theory verification,5.0
+16713,213,mapping,78.46478873239437
+148,2,sfg,74.0
+62,2,compositional structure,31.0
+3035,84,small number,36.13095238095238
+33,17,software design,1.941176470588235
+56,1,accurate method,56.0
+52268,2678,instance,19.51755041075429
+35,18,ttl,1.944444444444444
+14,7,academic journal,2.0
+481,22,initial set,21.86363636363636
+283,3,xml document,94.33333333333333
+287,11,low value,26.09090909090909
+1527,1,event type,1527.0
+13847,159,ambiguity,87.0880503144654
+327,1,system evaluation,327.0
+9,2,putonghua,4.5
+134,1,perl script,134.0
+121,2,theoretical work,60.5
+286,8,standard language,35.75
+88,2,electronic text,44.0
+44,7,problem type,6.285714285714286
+432,26,different category,16.61538461538462
+4771,73,keywords,65.35616438356165
+14,3,interface designer,4.666666666666667
+2,1,integer addition,2.0
+3,1,phrase situation,3.0
+548,7,negative word,78.28571428571429
+12,1,html output,12.0
+210,2,eigenvectors,105.0
+7601,140,proposition,54.29285714285714
+2016,374,analogy,5.390374331550802
+28,7,arabic dictionary,4.0
+2990,97,wang,30.82474226804124
+21,1,different syntax,21.0
+69,1,scientific discourse,69.0
+635,3,text data,211.6666666666667
+32,2,first order predicate logic,16.0
+449,3,word set,149.6666666666667
+18,2,similar relationship,9.0
+805,1,word string,805.0
+12,2,dialogue performance,6.0
+4,1,compiler implementation,4.0
+684,7,semantic web,97.71428571428571
+31,1,factorial design,31.0
+52,7,literary analysis,7.428571428571429
+682,1,beam size,682.0
+453,1,correct sense,453.0
+21,3,neurolinguistics,7.0
+290,3,normal distribution,96.66666666666667
+93,2,example query,46.5
+206,5,hindi word,41.2
+5,1,much relevant information,5.0
+69,28,course material,2.464285714285714
+104,1,negative context,104.0
+254,2,coherent text,127.0
+50,2,length information,25.0
+1011,269,intervention,3.758364312267658
+47,7,training sequence,6.714285714285714
+102,1,computational theory,102.0
+13900,41,retrieval,339.0243902439024
+11,1,data redundancy,11.0
+15175,4700,respect,3.228723404255319
+2,1,adequate quantity,2.0
+755,1,text segment,755.0
+6,1,usability point,6.0
+15,2,search engine ranking,7.5
+2552,1,feature space,2552.0
+6,1,table index,6.0
+229,74,incompatibility,3.094594594594595
+11,3,video information,3.666666666666667
+97,1,propositional logic,97.0
+60,1,current configuration,60.0
+97,2,example dialogue,48.5
+51,6,graduate program,8.5
+416,1,final model,416.0
+49,1,dialog memory,49.0
+3146,208,readability,15.125
+817,35,language learner,23.34285714285714
+33,1,knowledge organization,33.0
+187,62,kip,3.016129032258065
+35256,1376,expression,25.62209302325581
+40,1,standard theory,40.0
+385,25,factoring,15.4
+57,1,new sequence,57.0
+10,2,patient case,5.0
+78,5,numerical data,15.6
+1370,70,chinese character,19.57142857142857
+1596,18,example sentence,88.66666666666667
+2,1,illinois chicago,2.0
+163,2,different word order,81.5
+62,1,specific pair,62.0
+12,7,example story,1.714285714285714
+302,10,analysis tool,30.2
+6,1,invaluable work,6.0
+25,1,probability problem,25.0
+26459,5850,element,4.522905982905983
+724,2,unification grammar,362.0
+45,3,performance analysis,15.0
+32,1,feature match,32.0
+4345,14,embedding,310.3571428571428
+1103,1,parameter setting,1103.0
+7,1,high level programming language,7.0
+89,7,training system,12.71428571428571
+528,123,multiple choice,4.292682926829269
+53,1,text processing tool,53.0
+6946,8,infor,868.25
+2521,26,identifier,96.96153846153847
+52,11,software architecture,4.727272727272728
+8,1,input technology,8.0
+17,4,reevaluation,4.25
+24716,7780,base,3.176863753213368
+24263,531,framework,45.69303201506591
+45613,2310,argument,19.74588744588745
+53,5,world context,10.6
+84,26,probability theory,3.230769230769231
+192,5,city university,38.4
+8,1,wizard interface,8.0
+78,45,leeds,1.733333333333333
+49,5,elearning,9.8
+19,2,third paragraph,9.5
+96,50,main text,1.92
+9,3,complete formula,3.0
+67,1,sense meaning,67.0
+461,87,computer program,5.298850574712644
+123,6,conventional method,20.5
+544,2,modularity,272.0
+5,1,xml parsing,5.0
+9,1,component integration,9.0
+164,1,genitive case,164.0
+31,1,explicit definition,31.0
+1337,55,language learning,24.30909090909091
+11266,6011,code,1.874230577274996
+1910,118,correct answer,16.1864406779661
+45,2,network information,22.5
+19657,3863,comparison,5.088532228837691
+15,1,arabic example,15.0
+1161,8,orthography,145.125
+2117,1212,june,1.746699669966997
+360,3,web search engine,120.0
+289,2,categorisation,144.5
+83,2,search pattern,41.5
+145,7,working group,20.71428571428572
+22,1,leverage knowledge,22.0
+567,67,high score,8.462686567164178
+72,3,problem statement,24.0
+21,6,different match,3.5
+8,5,complete application,1.6
+80,1,first workshop,80.0
+6,2,naoki,3.0
+48,23,middle name,2.08695652173913
+88,8,text form,11.0
+772,41,background knowledge,18.82926829268293
+65,25,same family,2.6
+171,3,network analysis,57.0
+14,1,intersubjectivity,14.0
+77,1,physical entity,77.0
+341,11,linearity,31.0
+10,3,phylogenetics,3.333333333333333
+19,2,george lakoff,9.5
+88,18,language study,4.888888888888889
+1553,21,special case,73.95238095238095
+41,1,system quality,41.0
+11087,826,phase,13.42251815980629
+131,2,tnf,65.5
+25,2,primary information,12.5
+1605,4,future research,401.25
+18,4,html version,4.5
+725,1,rule application,725.0
+44,1,exploratory data analysis,44.0
+355,1,particular context,355.0
+819,5,trie,163.8
+558,1,default value,558.0
+68,1,smes,68.0
+223,2,annotated example,111.5
+111,3,clinical data,37.0
+158678,12840,result,12.35809968847352
+118,1,coverage problem,118.0
+747,4,context information,186.75
+96,6,important distinction,16.0
+15,4,ucsd,3.75
+7977,575,previous work,13.87304347826087
+40,1,university text,40.0
+56,1,construction procedure,56.0
+270,10,standard method,27.0
+102,1,stylistic variation,102.0
+17,1,swarthmore college,17.0
+64,2,complex grammar,32.0
+7,4,child type,1.75
+5,1,linguistic relativity,5.0
+41,3,term definition,13.66666666666667
+9,3,curriculum development,3.0
+21,1,formal modeling,21.0
+15,1,relational approach,15.0
+100,1,iso standard,100.0
+31,5,expressive language,6.2
+63,1,dictionary size,63.0
+296,26,basic model,11.38461538461539
+3073,46,categorization,66.80434782608695
+9,1,simple text file,9.0
+2556,1334,robot,1.916041979010495
+9,1,standard punctuation,9.0
+52,16,line number,3.25
+15,1,course topic,15.0
+40,1,question phrase,40.0
+608,11,enumeration,55.27272727272727
+46,4,morgan kaufmann,11.5
+2,1,blog writing,2.0
+21,1,implementers,21.0
+4,1,explicit usage,4.0
+133,2,case system,66.5
+28,1,digitisation,28.0
+528,8,hypertext,66.0
+21,9,hearing impairment,2.333333333333333
+22,2,informational text,11.0
+97,60,meaningful way,1.616666666666667
+39,6,basic sense,6.5
+25,2,carers,12.5
+111,2,evaluation strategy,55.5
+93,7,class member,13.28571428571429
+133,11,correct choice,12.09090909090909
+162,1,contiguity,162.0
+204,3,individual user,68.0
+8,3,group number,2.666666666666667
+83,11,concept map,7.545454545454546
+661,13,text document,50.84615384615385
+2,1,incommensurability,2.0
+70,38,refutation,1.842105263157895
+62,3,familiar word,20.66666666666667
+238,6,logical structure,39.66666666666666
+178,30,weinstein,5.933333333333334
+67,5,example case,13.4
+15,1,text attribute,15.0
+2,1,finding knowledge,2.0
+127,2,data object,63.5
+419,60,pharaoh,6.983333333333333
+76,7,formal logic,10.85714285714286
+4,1,rhyme structure,4.0
+96,2,groningen,48.0
+13,4,negative sense,3.25
+64,2,xml data,32.0
+6,1,open source information,6.0
+111,1,chinese document,111.0
+724,135,conjecture,5.362962962962963
+2770,8,prepositional phrase,346.25
+696,135,specific information,5.155555555555556
+693,120,acknowledgement,5.775
+431,197,grade level,2.187817258883249
+27619,24,predicate,1150.791666666667
+278,7,standard form,39.71428571428572
+32,1,scalability issue,32.0
+216,11,hyphenation,19.63636363636364
+87,1,past tense form,87.0
+115,15,model building,7.666666666666667
+66,4,applied linguistics,16.5
+475,3,previous method,158.3333333333333
+23,8,computer science course,2.875
+199,2,predicate logic,99.5
+55,30,noam chomsky,1.833333333333333
+22,6,east timor,3.666666666666667
+4056,1,phrase structure,4056.0
+683,22,aac,31.04545454545455
+31,1,methodological problem,31.0
+188,5,dbms,37.6
+22,3,knowledge sharing,7.333333333333333
+347,5,elicitation,69.4
+65,3,neuroticism,21.66666666666667
+17,1,information collection,17.0
+57,1,correct path,57.0
+116,1,spanish sentence,116.0
+276,165,first problem,1.672727272727273
+1990,6,ibm model,331.6666666666667
+240,7,positive value,34.28571428571428
+84,1,second goal,84.0
+13,7,critical evaluation,1.857142857142857
+14,3,simple comparison,4.666666666666667
+382,3,qualitative analysis,127.3333333333333
+15,1,precise value,15.0
+141,1,language proficiency,141.0
+51,12,paragraph structure,4.25
+682,162,important aspect,4.209876543209877
+25857,13109,effect,1.97246166755664
+10,1,educational technology,10.0
+161,3,common topic,53.66666666666666
+11193,26,entropy,430.5
+70,5,language difference,14.0
+4,1,child program,4.0
+266,8,optimizer,33.25
+87,1,document plan,87.0
+4,1,seoul national university,4.0
+113,10,actual implementation,11.3
+2,1,appointment schedule,2.0
+247,32,information technology,7.71875
+143,12,new value,11.91666666666667
+83,3,ordinal number,27.66666666666667
+11,5,green car,2.2
+3,2,subjective approach,1.5
+907,15,whole sentence,60.46666666666667
+74,2,small sample size,37.0
+28,1,character data,28.0
+37,14,fundamental principle,2.642857142857143
+2505,225,correctness,11.13333333333333
+1049,1,nlp tool,1049.0
+193,46,ptsd,4.195652173913044
+1617,9,pps,179.6666666666667
+10,2,standard track,5.0
+2701,1,word sequence,2701.0
+1046,35,questionnaire,29.88571428571429
+457,8,small subset,57.125
+1535,3,high accuracy,511.6666666666667
+84,5,copyright owner,16.8
+88,1,arbitrary text,88.0
+8,1,computer conferencing,8.0
+82,2,same rank,41.0
+6875,16,lattice,429.6875
+422,39,relational database,10.82051282051282
+86,2,namespace,43.0
+3333,1,speech act,3333.0
+62,1,default theory,62.0
+389,11,dictionary definition,35.36363636363637
+30,1,successful model,30.0
+5,1,only patient,5.0
+155,19,system error,8.157894736842104
+39,17,simple character,2.294117647058823
+1468,154,programme,9.532467532467532
+13,2,information people,6.5
+95,1,temporality,95.0
+218,1,alignment task,218.0
+21,4,title list,5.25
+76,1,original data set,76.0
+14,4,local area network,3.5
+1922,182,computer science,10.56043956043956
+35,1,such chain,35.0
+8,1,output size,8.0
+83,9,pelletier,9.222222222222221
+17,2,meaningful topic,8.5
+671,66,training method,10.16666666666667
+1532,10,person name,153.2
+716,1,viterbi algorithm,716.0
+12,3,conceptual understanding,4.0
+10,1,ambiguous way,10.0
+616,8,similar approach,77.0
+276,9,real text,30.66666666666667
+414,8,minimum number,51.75
+44,2,informative example,22.0
+268,6,graphical user interface,44.66666666666666
+499,1,linearization,499.0
+239,9,specific aspect,26.55555555555556
+50,14,unique sense,3.571428571428572
+4,1,environment interaction,4.0
+50312,796,representation,63.20603015075377
+139,1,sequents,139.0
+5,1,content question,5.0
+73,16,simple function,4.5625
+479,3,accuracy rate,159.6666666666667
+4142,47,modality,88.12765957446808
+15,2,electronic information,7.5
+23,2,flight deck,11.5
+3088,315,inventory,9.803174603174604
+20,8,dof,2.5
+14,2,implementation method,7.0
+173,1,frame type,173.0
+8,1,unambiguous language,8.0
+18794,9851,condition,1.907826616587148
+173,2,classification technique,86.5
+180,9,human knowledge,20.0
+54,2,language ability,27.0
+746,75,technical term,9.946666666666667
+18,1,orthonormal basis,18.0
+322,7,nonzero,46.0
+46,28,qwerty,1.642857142857143
+5195,337,realization,15.41543026706231
+874,31,novel approach,28.19354838709678
+35,2,correct guess,17.5
+920,4,struct,230.0
+845,2,frequency word,422.5
+307,38,first question,8.078947368421053
+10,1,specific intention,10.0
+20,13,giancarlo,1.538461538461539
+68,1,dravidian,68.0
+238,98,sanskrit,2.428571428571428
+27,16,quality information,1.6875
+7697,3,collocation,2565.666666666667
+16973,5009,field,3.388500698742264
+71,37,explication,1.918918918918919
+23,1,future state,23.0
+109,6,considerable interest,18.16666666666667
+17,7,accurate comparison,2.428571428571428
+3431,1,speech tag,3431.0
+2,1,tactical issue,2.0
+4658,349,ibm,13.34670487106017
+1784,1,relative frequency,1784.0
+587,2,web data,293.5
+51,16,birnbaum,3.1875
+17,1,csiro,17.0
+157,12,appropriate word,13.08333333333333
+10546,11,machine learning,958.7272727272727
+53,7,possible number,7.571428571428571
+79,34,italian language,2.323529411764706
+23,1,keyword analysis,23.0
+147,33,interactivity,4.454545454545454
+43,3,mysql database,14.33333333333333
+24,3,adequate treatment,8.0
+70,16,japanese name,4.375
+192,1,acquisition process,192.0
+288,2,new document,144.0
+314,147,answer key,2.136054421768708
+4413,172,other language,25.65697674418605
+18,8,text flow,2.25
+88,1,codewords,88.0
+64,25,word right,2.56
+3,1,biography genre,3.0
+177,10,intended message,17.7
+135,11,oral presentation,12.27272727272727
+150,1,fitness function,150.0
+35,1,focus information,35.0
+53,1,sense example,53.0
+50,1,english wikipedia article,50.0
+13,4,south african government,3.25
+60,2,different framework,30.0
+48,1,formal syntax,48.0
+245,1,transition sequence,245.0
+2259,1022,repetition,2.210371819960861
+494,175,toronto,2.822857142857143
+4,2,information desk,2.0
+73,20,specific point,3.65
+92,3,theoretical basis,30.66666666666667
+294,2,information science,147.0
+576,4,optimisation,144.0
+33,2,model checking,16.5
+19,2,first sequence,9.5
+72,1,formal analysis,72.0
+80,13,original context,6.153846153846154
+53,1,system precision,53.0
+45,1,target language english,45.0
+79,5,time reference,15.8
+195,22,complete system,8.863636363636363
+96,3,human action,32.0
+103,1,corresponding class,103.0
+40,1,phonetic information,40.0
+9034,105,hierarchy,86.03809523809524
+71,2,individual object,35.5
+58,2,model description,29.0
+87,2,particular grammar,43.5
+3,1,software integration,3.0
+102,14,error handling,7.285714285714286
+279,13,significant impact,21.46153846153846
+7,1,web approach,7.0
+8,1,such variability,8.0
+2793,6,msa,465.5
+445,1,student answer,445.0
+179,1,search system,179.0
+163,3,mining technique,54.33333333333334
+2,1,parable approach,2.0
+931,2,probability model,465.5
+595,11,previous sentence,54.09090909090909
+1809,306,assertion,5.911764705882353
+43,12,certain question,3.583333333333333
+45,30,flatness,1.5
+23,4,theoretical understanding,5.75
+56,7,complete knowledge,8.0
+8,3,chinese chinese,2.666666666666667
+66,12,specific function,5.5
+72,2,target topic,36.0
+678,9,first approach,75.33333333333333
+16,1,optimization tool,16.0
+71,41,oxford university,1.731707317073171
+70,1,information network,70.0
+160,40,multiple choice question,4.0
+12,2,fundamental insight,6.0
+464,7,time interval,66.28571428571429
+2,1,grammatical index,2.0
+9772,19,antecedent,514.3157894736842
+2782,109,bel,25.52293577981651
+2,1,uncorrected ocr,2.0
+7,1,enron corporation,7.0
+90,10,usage example,9.0
+699,5,user input,139.8
+178,5,comparison purpose,35.6
+1834,2,error analysis,917.0
+181,8,congruence,22.625
+1088,5,subordinate clause,217.6
+360,2,domain text,180.0
+4,2,cooking video,2.0
+367,3,original data,122.3333333333333
+135,1,research issue,135.0
+21,1,appropriate order,21.0
+69,4,reification,17.25
+13,1,certain emotion,13.0
+21,3,different figure,7.0
+2331,33,news article,70.63636363636364
+55,4,visual field,13.75
+214,1,interpretability,214.0
+6929,490,workshop,14.14081632653061
+241,100,consent,2.41
+10,2,speech recognition software,5.0
+1426,463,expertise,3.079913606911447
+2408,63,significant improvement,38.22222222222222
+89,1,correct structure,89.0
+69,14,correct type,4.928571428571429
+10,2,sound data,5.0
+224,40,reference text,5.6
+24594,7014,development,3.506415739948674
+10,1,question scenario,10.0
+1546,377,isbn,4.10079575596817
+700,13,particular word,53.84615384615385
+21,2,index table,10.5
+26,11,objective information,2.363636363636364
+450,54,use case,8.333333333333334
+27,1,lingual method,27.0
+94,1,web crawler,94.0
+94,9,original problem,10.44444444444444
+234,2,iterative process,117.0
+355,1,previous state,355.0
+16,1,relevant action,16.0
+267,96,many thanks,2.78125
+183,2,data item,91.5
+3,1,rapid overview,3.0
+28,8,special topic,3.5
+14,1,parallel approach,14.0
+474,8,english phrase,59.25
+46,1,conversational structure,46.0
+50,6,logical consequence,8.333333333333334
+7840,1823,gap,4.300603400987383
+26,2,limited applicability,13.0
+2231,560,flexibility,3.983928571428571
+56730,6510,function,8.714285714285714
+50,5,data input,10.0
+188,17,statistical data,11.05882352941176
+15,2,nominating committee,7.5
+21,2,specific response,10.5
+458,119,rectangle,3.848739495798319
+98,1,martin kay,98.0
+510,173,faq,2.947976878612717
+58,10,input signal,5.8
+265,1,mapping function,265.0
+40,13,good data,3.076923076923077
+86,3,computer science department,28.66666666666667
+59,1,educational testing service,59.0
+206,1,query system,206.0
+23,13,simple principle,1.769230769230769
+22,1,rcts,22.0
+55,2,content information,27.5
+19,3,list format,6.333333333333333
+1263,121,key word,10.43801652892562
+12,2,appropriate approach,6.0
+5,1,statistical validity,5.0
+10,2,stenographer,5.0
+3337,2178,management,1.532139577594123
+15,9,caen,1.666666666666667
+753,2,subtype,376.5
+111,1,contextual knowledge,111.0
+681,2,copula,340.5
+40,10,correct grammar,4.0
+4266,79,linguist,54.0
+110,59,typesetting,1.864406779661017
+15249,851,symbol,17.91891891891892
+80,2,complexity analysis,40.0
+139,1,iteration number,139.0
+14,1,example location,14.0
+273,29,random order,9.413793103448276
+70,42,whiteboard,1.666666666666667
+8,1,initiative dialog system,8.0
+160,7,similar example,22.85714285714286
+1698,567,chat,2.994708994708995
+71,2,modeling language,35.5
+11,1,icts,11.0
+48,27,electronic format,1.777777777777778
+12,1,negative modifier,12.0
+392,21,passive voice,18.66666666666667
+22,1,usage information,22.0
+221,1,general corpus,221.0
+33,1,real world system,33.0
+16515,4529,stage,3.64650033119894
+8,5,michigan state university,1.6
+66,1,input form,66.0
+70,9,block diagram,7.777777777777778
+4,1,speech functionality,4.0
+312,52,web interface,6.0
+4,1,academic context,4.0
+2248,336,comprehension,6.690476190476191
+4,1,question answer data,4.0
+1037,2,channel model,518.5
+212,3,efficient method,70.66666666666667
+485,3,weighted average,161.6666666666667
+680,8,subscript,85.0
+122,16,optical character recognition,7.625
+319,3,literary text,106.3333333333333
+355,6,xiong,59.16666666666666
+56,2,data value,28.0
+74,1,language variant,74.0
+86,19,interrelationship,4.526315789473684
+79,36,vocabulary list,2.194444444444445
+4,2,study process,2.0
+302,2,conversational speech,151.0
+19181,122,nlp,157.2213114754098
+3,1,analytical parsing,3.0
+179,10,new context,17.9
+1475,4,previous study,368.75
+344,15,brazilian portuguese,22.93333333333333
+8,2,american medical association,4.0
+6,1,contradictory answer,6.0
+97,8,simple system,12.125
+539,234,taiwan,2.303418803418803
+84,4,complex information,21.0
+50,1,base structure,50.0
+49,10,specific position,4.9
+423,16,same value,26.4375
+38,1,error character,38.0
+367,2,second method,183.5
+294,2,reference answer,147.0
+66,26,basic phrase,2.538461538461538
+184,11,graphical interface,16.72727272727273
+56,2,system implementation,28.0
+91116,260,algorithm,350.4461538461538
+213,4,same tree,53.25
+41,6,invaluable help,6.833333333333333
+418,1,model performance,418.0
+1307,8,human language,163.375
+37,2,standard interpretation,18.5
+39,1,control language,39.0
+1367,173,cambridge,7.901734104046243
+678,17,halliday,39.88235294117647
+234,6,long vowel,39.0
+35,12,simple machine,2.916666666666667
+57,8,visual content,7.125
+92280,4703,score,19.62151817988518
+6,2,country information,3.0
+32,10,case law,3.2
+19,2,example scenario,9.5
+292,3,user preference,97.33333333333333
+68,1,grammatical subject,68.0
+18,1,planning framework,18.0
+229,1,word learning,229.0
+277,3,user profile,92.33333333333333
+232,1,performance level,232.0
+110,62,memorization,1.774193548387097
+41,6,source label,6.833333333333333
+267,1,hanzi,267.0
+2,1,rootword,2.0
+3040,1,argument structure,3040.0
+61,16,computer language,3.8125
+105,1,karlgren,105.0
+534,20,original word,26.7
+2,1,chinese map,2.0
+707,11,personal pronoun,64.27272727272727
+130,3,bayesian method,43.33333333333334
+42,1,narrative discourse,42.0
+51,1,datatype,51.0
+382,3,additional data,127.3333333333333
+13,4,simple database,3.25
+245,55,subject area,4.454545454545454
+231,3,target set,77.0
+24,1,output category,24.0
+34124,3919,application,8.707323296759377
+150,8,research article,18.75
+6420,19,morphology,337.8947368421053
+9,1,color perception,9.0
+84,3,title word,28.0
+95,14,relevant topic,6.785714285714286
+179,14,planning process,12.78571428571429
+25,2,abstract data type,12.5
+51,1,computational biology,51.0
+8,1,communication platform,8.0
+18,3,word process,6.0
+29,1,sentence syntax,29.0
+13,4,actionable information,3.25
+17,8,future possibility,2.125
+53,30,backspace,1.766666666666667
+1449,2,feature type,724.5
+28,1,type declaration,28.0
+45,3,certain criterion,15.0
+20,5,spam filter,4.0
+164,99,cohesiveness,1.656565656565657
+22,1,room number,22.0
+7,3,concise statement,2.333333333333333
+6,1,weak narration,6.0
+60,1,readability level,60.0
+1270,10,recursion,127.0
+4,1,deliberation process,4.0
+59,1,state language,59.0
+8471,8,target language,1058.875
+778,69,relevant information,11.27536231884058
+76,1,clean text,76.0
+18,5,reasonableness,3.6
+322,30,emotional state,10.73333333333333
+73083,13797,class,5.297021091541639
+429,8,lakoff,53.625
+4897,4,information retrieval,1224.25
+44,1,soft pattern,44.0
+6,1,publication process,6.0
+6,2,reviewer question,3.0
+170,22,flickr,7.727272727272728
+15,1,pronoun usage,15.0
+20,1,correctness proof,20.0
+3,1,korean linguistics,3.0
+84,1,phonemic transcription,84.0
+56,7,digitization,8.0
+45,1,graphical element,45.0
+69,14,inside front cover,4.928571428571429
+93,2,relevant knowledge,46.5
+10,1,cambridge international dictionary,10.0
+135,5,third sentence,27.0
+548,3,entire sentence,182.6666666666667
+47,1,text transcription,47.0
+61,6,enough context,10.16666666666667
+783,13,information need,60.23076923076923
+151859,56,corpus,2711.767857142857
+3463,8,vector space,432.875
+55,1,thread level,55.0
+57,2,same definition,28.5
+513,4,decipherment,128.25
+25,12,new thread,2.083333333333333
+1041,4,statistical approach,260.25
+333,6,chinese translation,55.5
+591,123,xerox,4.804878048780488
+48030,11141,list,4.311103132573377
+20,12,the american society,1.666666666666667
+4,2,psychological discussion,2.0
+3,1,simple derivation,3.0
+80,18,new strategy,4.444444444444445
+941,78,new language,12.06410256410256
+46,9,harmonization,5.111111111111111
+18,1,object agreement,18.0
+7921,1616,logic,4.901608910891089
+110,7,mainland china,15.71428571428571
+12,7,extra element,1.714285714285714
+33,2,correct text,16.5
+1022,1,text mining,1022.0
+429,4,complex task,107.25
+224,2,speaker turn,112.0
+53,2,counterfactual,26.5
+9,2,product comparison,4.5
+84006,11542,english,7.278287991682551
+76,1,google research,76.0
+147,25,knowledge management,5.88
+19,2,encyclopedic resource,9.5
+404,1,segment level,404.0
+2,1,signal function,2.0
+66,2,nakazawa,33.0
+223,3,carnegie mellon university,74.33333333333333
+9,2,edge system,4.5
+6,1,friendly user interface,6.0
+70,1,conversation analysis,70.0
+89,1,translation strategy,89.0
+84,8,core system,10.5
+7,1,diagnosis process,7.0
+98,3,bell lab,32.66666666666666
+64,6,pragmatic approach,10.66666666666667
+613,9,naturalness,68.11111111111111
+82,3,correct character,27.33333333333333
+3505,1319,motivation,2.657316148597422
+41,2,basque language,20.5
+160,1,mental lexicon,160.0
+13,6,continued support,2.166666666666667
+54030,1885,input,28.6631299734748
+887,473,necessity,1.875264270613108
+7559,812,configuration,9.30911330049261
+48,12,simple definition,4.0
+117,5,time information,23.4
+20,5,particular reading,4.0
+18,2,correct context,9.0
+1160,129,prior knowledge,8.992248062015504
+3691,48,deletion,76.89583333333333
+12,1,situation time,12.0
+97,29,single item,3.344827586206896
+111,13,substantial number,8.538461538461538
+45,1,text term,45.0
+72,6,small dictionary,12.0
+119,37,acme,3.216216216216216
+18450,949,procedure,19.44151738672286
+192,1,extensibility,192.0
+516,5,general case,103.2
+598,14,cognitive science,42.71428571428572
+7,1,conference site,7.0
+35016,4997,meaning,7.007404442665599
+17,2,technical device,8.5
+25,7,useful method,3.571428571428572
+1239,26,english text,47.65384615384615
+43,1,analogical reasoning,43.0
+3,1,normal goal,3.0
+3,1,cost output,3.0
+3,2,exciting content,1.5
+1590,3,adequacy,530.0
+17079,584,module,29.24486301369863
+5154,29,total number,177.7241379310345
+316,1,relation have,316.0
+3335,830,quantity,4.018072289156627
+624,8,data model,78.0
+238,20,simple case,11.9
+28,1,katakana character,28.0
+6,1,brain computer interface,6.0
+154,2,word pattern,77.0
+2591,538,wide range,4.815985130111524
+36,4,real world context,9.0
+929,3,hierarchical structure,309.6666666666667
+122,2,arabic name,61.0
+211,1,predicate calculus,211.0
+31,2,collaborative problem,15.5
+356,7,maximum value,50.85714285714285
+58,23,difficult issue,2.521739130434783
+304,13,arabic language,23.38461538461538
+493,274,exploitation,1.799270072992701
+869,18,generalisation,48.27777777777778
+119,21,brighton,5.666666666666667
+119,1,initial work,119.0
+3927,4,idf,981.75
+65,7,class person,9.285714285714286
+806,2,information structure,403.0
+70,1,relational data base,70.0
+6928,48,schema,144.3333333333333
+13,7,text formatting,1.857142857142857
+21,5,word letter,4.2
+54,3,central topic,18.0
+230,14,basic approach,16.42857142857143
+17,2,potential weakness,8.5
+194371,11869,language,16.37635858117786
+5148,59,adverb,87.2542372881356
+31,4,presentation format,7.75
+38,1,calo,38.0
+58,1,previous input,58.0
+26,17,cybernetics,1.529411764705882
+286,28,significant number,10.21428571428571
+461,9,causation,51.22222222222222
+19,1,technology community,19.0
+5,1,language mix,5.0
+35,1,interaction level,35.0
+25,2,rgb value,12.5
+47143,1499,accuracy,31.44963308872582
+717,29,appropriateness,24.72413793103448
+40,2,individual action,20.0
+6,1,sentence structuring,6.0
+295,8,positive word,36.875
+147,3,karlsson,49.0
+34400,8041,com,4.278074866310161
+167,2,word topic,83.5
+8,4,unnecessary repetition,2.0
+3280,15,accu,218.6666666666667
+13,1,japanese user,13.0
+10,1,unicode format,10.0
+148,3,last example,49.33333333333334
+11,1,query format,11.0
+8,1,english sentence structure,8.0
+53,1,contextual interpretation,53.0
+424,23,japanese word,18.43478260869565
+1697,45,eisner,37.71111111111111
+225,8,student essay,28.125
+1402,15,rule set,93.46666666666667
+430,12,general approach,35.83333333333334
+271,2,maximum score,135.5
+73,1,logical information,73.0
+251,8,declarative sentence,31.375
+344,3,perfective,114.6666666666667
+6,1,human immunodeficiency virus type,6.0
+44,11,address problem,4.0
+5,1,tuning example,5.0
+56,1,optimal configuration,56.0
+102,4,system process,25.5
+540,1,test item,540.0
+38,2,relevant argument,19.0
+8,1,parent interaction,8.0
+144,79,word processor,1.822784810126582
+297,8,informatics,37.125
+879,4,interpreta,219.75
+121,2,audio data,60.5
+39,1,target case,39.0
+100,1,word prefix,100.0
+196,2,pitch range,98.0
+430,4,physical object,107.5
+21438,6962,aspect,3.079287561045676
+318,5,source data,63.6
+751,132,increment,5.689393939393939
+71,1,conference paper,71.0
+17,2,event example,8.5
+86,2,parallel structure,43.0
+34,20,particular issue,1.7
+435,1,formal definition,435.0
+976,1,feature extraction,976.0
+726,1,second experiment,726.0
+54,24,informative text,2.25
+32,2,subject type,16.0
+88,1,modeling method,88.0
+103,4,triage,25.75
+247,3,correction system,82.33333333333333
+233,4,sample text,58.25
+181,4,english source,45.25
+226,7,initial step,32.28571428571428
+59,1,business news,59.0
+2,1,interesting match,2.0
+13360,39,tweet,342.5641025641025
+16,7,usability testing,2.285714285714286
+29,4,symbolic logic,7.25
+979,1,word model,979.0
+21,1,name similarity,21.0
+180,27,development process,6.666666666666667
+20,2,exhaustive description,10.0
+1488,15,initialization,99.2
+171,4,research field,42.75
+33,1,elsevier,33.0
+312,12,scientific paper,26.0
+63930,1518,experiment,42.11462450592885
+179,2,text source,89.5
+10,2,graphic component,5.0
+157,1,current character,157.0
+343,11,research topic,31.18181818181818
+338,29,name recognition,11.6551724137931
+200,59,same content,3.389830508474576
+116,4,table size,29.0
+62,2,resource development,31.0
+13,5,institutionalization,2.6
+29,5,xml parser,5.8
+4,1,scope data,4.0
+40,12,comprehensive analysis,3.333333333333333
+33,6,unix operating system,5.5
+115,2,particular document,57.5
+1350,105,first sentence,12.85714285714286
+32,3,high level information,10.66666666666667
+31,3,theoretician,10.33333333333333
+89,4,simple data,22.25
+1295,18,second step,71.94444444444444
+48,12,memory size,4.0
+33,13,etiology,2.538461538461538
+35,1,conversational analysis,35.0
+3,1,server solution,3.0
+31,5,record number,6.2
+25,2,open university,12.5
+1502,4,gories,375.5
+103,16,username,6.4375
+129,1,sufficient data,129.0
+260,1,finite automaton,260.0
+209,2,description language,104.5
+113,1,combination model,113.0
+33,2,similar syntax,16.5
+90938,2798,structure,32.50107219442459
+50,1,line data,50.0
+1073,3,dative,357.6666666666667
+277,2,grammatical sentence,138.5
+17,1,class precision,17.0
+31,2,english content,15.5
+3097,4,chunking,774.25
+1100,223,checker,4.932735426008969
+3,2,systemic structure,1.5
+236,2,sentence set,118.0
+558,318,snapshot,1.754716981132076
+57567,340,entity,169.3147058823529
+440,13,politeness,33.84615384615385
+826,6,acceptability,137.6666666666667
+117,6,particular example,19.5
+1257,344,kaplan,3.654069767441861
+155,19,text editor,8.157894736842104
+18,2,standard problem,9.0
+611,3,interlocutor,203.6666666666667
+249,2,user feedback,124.5
+48,2,multilingualism,24.0
+782,30,initialize,26.06666666666667
+7,4,sample conversation,1.75
+79,1,temporal analysis,79.0
+12,3,literary language,4.0
+14,3,interpersonal interaction,4.666666666666667
+38,2,positive event,19.0
+6,1,sanskrit text,6.0
+190,1,english lexicon,190.0
+48,3,action description,16.0
+17,1,inflection system,17.0
+1243,163,participation,7.625766871165644
+43,3,sentence summary,14.33333333333333
+16,2,laborious task,8.0
+4,2,future value,2.0
+7,2,symmetric function,3.5
+17,4,route information,4.25
+69,1,random permutation,69.0
+115,31,extrapolation,3.709677419354839
+8693,73,future work,119.0821917808219
+18,1,spam message,18.0
+1329,97,elaboration,13.70103092783505
+8,1,computer science data,8.0
+786,3,training phase,262.0
+19,1,conversation model,19.0
+4950,1,translation system,4950.0
+417,1,text understanding,417.0
+201,5,initial position,40.2
+932,2,table show,466.0
+47,1,nominalisation,47.0
+74859,13116,value,5.707456541628545
+27,1,speech recognition application,27.0
+462,196,source code,2.357142857142857
+141,1,additional context,141.0
+163,6,possible application,27.16666666666667
+17,1,last sample,17.0
+8,1,target accuracy,8.0
+19,2,fundamental requirement,9.5
+21,2,interactive version,10.5
+170,10,relevant text,17.0
+108,10,modern chinese,10.8
+171,1,tactic information,171.0
+4,1,english aspect,4.0
+469,4,grice,117.25
+149,1,source model,149.0
+251,6,correct interpretation,41.83333333333334
+40582,490,gram,82.82040816326531
+37,1,artificial intelligence research,37.0
+86,1,corresponding reference,86.0
+105,16,second point,6.5625
+15,4,physical sense,3.75
+5,1,computer manipulation,5.0
+10580,39,modifier,271.2820512820513
+12546,398,implementation,31.52261306532663
+107,3,problem domain,35.66666666666666
+934,50,workflow,18.68
+11,1,interaction method,11.0
+1602,32,specificity,50.0625
+3405,1,feature structure,3405.0
+564,3,first column,188.0
+59,1,such state,59.0
+6,2,norwegian language,3.0
+63,22,current problem,2.863636363636364
+9,1,introductory article,9.0
+2327,121,synthesis,19.23140495867769
+239,2,alog,119.5
+62,1,present context,62.0
+449,3,logic programming,149.6666666666667
+380,1,efficient algorithm,380.0
+42,1,verb translation,42.0
+3,1,key letter,3.0
+34,2,keyboard input,17.0
+29,9,scientific discipline,3.222222222222222
+3,1,hard copy publication,3.0
+93,4,assistive technology,23.25
+104,1,object recognition,104.0
+18,4,specific author,4.5
+346,16,research work,21.625
+7,1,map interface,7.0
+433,2,language analysis,216.5
+410,2,predictive power,205.0
+48,1,perfective aspect,48.0
+5710,3,cation,1903.333333333333
+2,1,definition information,2.0
+118,20,sma,5.9
+2821,192,idiom,14.69270833333333
+7,2,baltimore county,3.5
+57,15,phd thesis,3.8
+60,3,language game,20.0
+249,29,key component,8.586206896551724
+15,3,evolutionary approach,5.0
+60,5,solution set,12.0
+17,1,artificial intelligence series,17.0
+3,2,water sample,1.5
+888,1,substructure,888.0
+84,1,good recall,84.0
+24,4,question number,6.0
+15,6,internet application,2.5
+32,1,correct input,32.0
+346,16,standard model,21.625
+31,1,bmj,31.0
+314,44,phonetics,7.136363636363637
+333,4,partial order,83.25
+3,1,weingart,3.0
+212,1,course structure,212.0
+1849,5,average number,369.8
+5965,96,coherence,62.13541666666666
+40,1,java library,40.0
+31,2,complete lexicon,15.5
+77,2,database structure,38.5
+76,10,universidad,7.6
+1086,5,spelling correction,217.2
+273,17,further development,16.05882352941176
+67,14,application developer,4.785714285714286
+85,3,correct phrase,28.33333333333333
+4984,116,wsj,42.96551724137931
+3591,11,nist,326.4545454545454
+43,2,individual tag,21.5
+3,2,kidney function,1.5
+519,3,such data,173.0
+57,5,katrin,11.4
+25,3,example concept,8.333333333333334
+64,2,summary text,32.0
+12,1,application part,12.0
+47,5,dictionary form,9.4
+14,5,nhtsa,2.8
+713,1,temporal information,713.0
+3,1,palestinian view,3.0
+65,3,appropriate number,21.66666666666667
+13,3,familiar object,4.333333333333333
+7,4,midline,1.75
+40,3,overall pattern,13.33333333333333
+3680,2255,session,1.631929046563193
+18,1,quantum logic,18.0
+49,6,negative information,8.166666666666666
+117,46,other action,2.543478260869565
+3956,85,abbreviation,46.54117647058823
+293,9,recognition problem,32.55555555555556
+5,1,document template,5.0
+863,5,possible value,172.6
+3,1,total depth,3.0
+336,14,standardization,24.0
+106,2,contrast set,53.0
+4292,166,czech,25.85542168674699
+25,2,string type,12.5
+1287,414,demonstration,3.108695652173913
+1345,11,hirst,122.2727272727273
+155,1,specific sense,155.0
+14,1,context data,14.0
+7,1,form author,7.0
+55,1,text output,55.0
+4,1,manual log,4.0
+58,24,basic grammar,2.416666666666667
+6708,1,natural language processing,6708.0
+168,3,examinee,56.0
+155,1,number person,155.0
+435,2,clinical text,217.5
+151,1,level accuracy,151.0
+2,1,operation order,2.0
+1204,2,metonymy,602.0
+21,6,coherent structure,3.5
+292,9,such knowledge,32.44444444444444
+149,4,authoring tool,37.25
+36,7,informative content,5.142857142857143
+2,1,date formatting,2.0
+1093,264,sag,4.140151515151516
+379,120,simple way,3.158333333333333
+320,3,stress pattern,106.6666666666667
+96,2,system behavior,48.0
+18,1,information browsing,18.0
+421,51,word usage,8.254901960784315
+181,1,performance gap,181.0
+2151,655,html,3.283969465648855
+928,9,language acquisition,103.1111111111111
+267,37,key issue,7.216216216216216
+4153,5,word form,830.6
+535,4,challenging task,133.75
+41956,11657,standard,3.599210774641846
+10,1,different equation,10.0
+105,1,wikis,105.0
+5,1,factorial typology,5.0
+40737,171,constraint,238.2280701754386
+2924,1,perceptron,2924.0
+18,4,simple declarative sentence,4.5
+721,53,vocabulary word,13.60377358490566
+223,21,development environment,10.61904761904762
+57,15,champaign,3.8
+139,25,romanization,5.56
+28,3,data retrieval,9.333333333333334
+5,1,many deaf people,5.0
+15,1,phone loop,15.0
+12,3,text definition,4.0
+59,2,search engine result,29.5
+43,9,discussion topic,4.777777777777778
+11,2,simple topic,5.5
+1361,86,completeness,15.82558139534884
+215967,20879,feature,10.34374251640404
+1112,10,data collection,111.2
+50,1,spatial context,50.0
+23,2,english child,11.5
+49,1,interaction effect,49.0
+64,3,url http,21.33333333333333
+3022,4,feature selection,755.5
+2414,30,permutation,80.46666666666667
+107467,21314,type,5.042085014544431
+6,2,instructive example,3.0
+607,101,concordance,6.00990099009901
+5801,1,lda,5801.0
+11735,6862,ability,1.710142815505683
+42,2,standard input,21.0
+27,2,visual focus,13.5
+155,31,rationality,5.0
+11196,2226,slot,5.029649595687331
+13398,1,noun phrase,13398.0
+125,3,english pair,41.66666666666666
+2,1,english sentence word,2.0
+114,4,steganography,28.5
+6,1,plan explanation,6.0
+23,1,generator output,23.0
+62,1,appropriate rule,62.0
+2901,95,variance,30.53684210526316
+58812,8411,learning,6.99227202472952
+29,1,name match,29.0
+379,2,plural noun,189.5
+26,12,core rule,2.166666666666667
+11,1,certain keywords,11.0
+50,1,article content,50.0
+11149,956,statistic,11.66213389121339
+51,5,brain activity,10.2
+63,1,text topic,63.0
+57,17,common goal,3.352941176470588
+150,8,regression analysis,18.75
+205,6,single task,34.16666666666666
+8,2,qualitative method,4.0
+1187,91,queue,13.04395604395604
+307,2,different parameter,153.5
+21,1,future iteration,21.0
+181,2,world data,90.5
+227,2,relevant word,113.5
+16,6,potential conflict,2.666666666666667
+145,16,pisa,9.0625
+90,3,database management system,30.0
+41,6,empiricism,6.833333333333333
+78480,9547,form,8.220383366502567
+34,1,pronoun use,34.0
+3,1,skeleton model,3.0
+10,1,solution text,10.0
+4403,138,hindi,31.90579710144927
+13,1,class knowledge,13.0
+16,3,standard interface,5.333333333333333
+5886,1921,patient,3.064029151483602
+172,60,other speaker,2.866666666666667
+134,1,role type,134.0
+33,13,lip movement,2.538461538461538
+36,1,visual feedback,36.0
+37,1,denomina,37.0
+400,1,relative importance,400.0
+83,1,conclusion section,83.0
+10,4,informational value,2.5
+1168,8,same data,146.0
+103,1,transfer component,103.0
+3,2,week time period,1.5
+46,1,tilburg university,46.0
+58,34,deaf people,1.705882352941176
+3795,114,english word,33.28947368421053
+74,21,narrative structure,3.523809523809524
+147,74,simple task,1.986486486486486
+5783,1832,meeting,3.156659388646288
+275,1,final evaluation,275.0
+26,7,ministration,3.714285714285714
+20878,570,attribute,36.62807017543859
+542,14,improved performance,38.71428571428572
+48,22,particular person,2.181818181818182
+1392,9,semantic space,154.6666666666667
+66,4,java api,16.5
+118,5,hypothesis testing,23.6
+52,1,ontology language,52.0
+105,1,word repetition,105.0
+14,1,implementation level,14.0
+15,3,korean government,5.0
+133,37,signal processing,3.594594594594595
+25,2,ordinary conversation,12.5
+29,6,term result,4.833333333333333
+133,1,language type,133.0
+24146,11,natural language,2195.090909090909
+41989,389,alignment,107.9408740359897
+9,1,sincere gratitude,9.0
+191,2,specific class,95.5
+21,10,arabic alphabet,2.1
+9,1,direct object pronoun,9.0
+270,13,specific application,20.76923076923077
+2722,124,inflection,21.95161290322581
+147,6,actual number,24.5
+14475,387,syntax,37.4031007751938
+210,2,inference engine,105.0
+119515,17897,number,6.677934849416103
+206,2,certain context,103.0
+39,1,dialogue example,39.0
+23,1,objective evidence,23.0
+68,1,probability space,68.0
+53051,8303,topic,6.389377333493917
+392,7,idiomatic expression,56.0
+18,1,high diversity,18.0
+1488,8,generation system,186.0
+35,1,product rule,35.0
+49,4,appropriate information,12.25
+61,2,training problem,30.5
+2818,1,feature value,2818.0
+457,9,subordination,50.77777777777778
+1020,21,word translation,48.57142857142857
+5116,832,consideration,6.149038461538462
+37,8,sincere thanks,4.625
+371,1,target object,371.0
+22,2,empty position,11.0
+10,2,test scene,5.0
+161,2,processing difficulty,80.5
+33,4,cdf,8.25
+505,3,concreteness,168.3333333333333
+68,3,character language,22.66666666666667
+136,3,information value,45.33333333333334
+28,2,useful task,14.0
+2,1,systemic functional perspective,2.0
+23,13,little context,1.769230769230769
+16,3,material object,5.333333333333333
+35,1,measure phrase,35.0
+71,29,mumbai,2.448275862068965
+43,6,google translator,7.166666666666667
+109,2,correct value,54.5
+24,8,oman,3.0
+20,6,translation exercise,3.333333333333333
+7408,8,crf,926.0
+198,1,wildcards,198.0
+1064,202,basic idea,5.267326732673268
+5,2,meaningful interaction,2.5
+20,2,korean character,10.0
+10,2,first digit,5.0
+957,579,case study,1.652849740932643
+30,3,html format,10.0
+347,1,language group,347.0
+694,1,answer type,694.0
+7,3,phone keypad,2.333333333333333
+8,5,heartfelt thanks,1.6
+345,7,crucial role,49.28571428571428
+66,3,word section,22.0
+666,1,english wikipedia,666.0
+6,1,implementation framework,6.0
+67,2,formal method,33.5
+12,1,online english,12.0
+427,4,iterate,106.75
+3,1,meaningful argument,3.0
+287,76,province,3.776315789473684
+93,5,future issue,18.6
+68,27,oed,2.518518518518519
+9203,4138,technology,2.224021266312228
+134,1,transition model,134.0
+2314,26,regular expression,89.0
+9,4,killer game,2.25
+109,1,fixed value,109.0
+4,1,satisfactory theory,4.0
+87,1,explanatory power,87.0
+349,2,default parameter,174.5
+546,9,scl,60.66666666666666
+3,1,subjunctive mode,3.0
+74,3,message length,24.66666666666667
+100,1,current goal,100.0
+14,2,corresponding description,7.0
+412,1,decoding process,412.0
+129,11,source file,11.72727272727273
+1343,162,chomsky,8.290123456790123
+78,27,interface design,2.888888888888889
+8,2,example template,4.0
+171,6,information flow,28.5
+85,3,tld,28.33333333333333
+27,1,minimum score,27.0
+799,5,histogram,159.8
+9,1,visual contact,9.0
+105,3,product type,35.0
+16,8,concise text,2.0
+3527,49,indexing,71.9795918367347
+817,6,correct translation,136.1666666666667
+161,2,optimal performance,80.5
+21,1,example number,21.0
+35,1,phonetic translation,35.0
+42,1,autocorrelation,42.0
+12,4,theoretical material,3.0
+1524,3,evaluator,508.0
+4679,15,acl,311.9333333333333
+10,1,translation methodology,10.0
+36,10,class structure,3.6
+156,1,memory usage,156.0
+22,1,logical next step,22.0
+3028,1855,publication,1.632345013477089
+141,8,data quality,17.625
+2821,1,training example,2821.0
+1817,38,markup,47.81578947368421
+49,1,fast speech,49.0
+15,2,method approach,7.5
+37,7,pervasiveness,5.285714285714286
+5,1,readability aspect,5.0
+8,5,magic rule,1.6
+6927,11,error rate,629.7272727272727
+1955,2,linguistic knowledge,977.5
+21896,2071,summary,10.57267020762916
+135,1,subdomains,135.0
+103,4,class value,25.75
+296,1,randomization,296.0
+7,1,fact rule,7.0
+30365,31,utterance,979.516129032258
+302,4,sentence word,75.5
+74507,12079,paper,6.168308634820764
+6,2,punctuation style,3.0
+23,4,academic prose,5.75
+241,15,french translation,16.06666666666667
+231,3,lections,77.0
+305,23,electronic dictionary,13.26086956521739
+17,1,chunk data,17.0
+16820,9115,relationship,1.845309928688974
+2,1,wundt,2.0
+5631,20,speech recognition,281.55
+30,1,certain subset,30.0
+3750,64,keyword,58.59375
+11,1,telemedicine,11.0
+194,13,semicolon,14.92307692307692
+21,4,minimum information,5.25
+3,1,university research program,3.0
+200,5,cambridge university press,40.0
+74,1,situational context,74.0
+44,1,medical informatics,44.0
+302,28,detailed discussion,10.78571428571429
+249,1,linguistic model,249.0
+1163,1,search algorithm,1163.0
+31,3,simple transfer,10.33333333333333
+25,5,false conclusion,5.0
+106,41,interest rate,2.585365853658537
+248,5,next iteration,49.6
+5139,1686,journal,3.048042704626334
+1450,2,disjunction,725.0
+11,1,fe2,11.0
+79,9,sampling rate,8.777777777777779
+9,1,paste method,9.0
+160,19,scientific literature,8.421052631578947
+1808,7,ance,258.2857142857143
+217,2,string model,108.5
+503,15,root word,33.53333333333333
+139,5,output format,27.8
+109,11,sentence end,9.909090909090908
+35,1,feature data,35.0
+93,4,basic notion,23.25
+53,2,new methodology,26.5
+1660,2,prosody,830.0
+11,1,reference function,11.0
+61898,9608,error,6.442339716902581
+376,1,speech system,376.0
+212,5,factorial,42.4
+946,1,language system,946.0
+138,1,peking university,138.0
+572,1,feature model,572.0
+225,1,simple algorithm,225.0
+179,1,grammatical analysis,179.0
+42,7,exactness,6.0
+23,6,overall context,3.833333333333333
+1684,216,edits,7.796296296296297
+32,1,generous support,32.0
+354,189,mccoy,1.873015873015873
+38,14,blind people,2.714285714285714
+130,40,hamburg,3.25
+123,13,text format,9.461538461538462
+548,8,anova,68.5
+72,1,approximation method,72.0
+4,1,example hmm,4.0
+617,20,roget,30.85
+87,1,preposition phrase,87.0
+3,1,generous work,3.0
+7,1,rgb color,7.0
+26,9,academic community,2.888888888888889
+5418,2,development set,2709.0
+134,5,whole phrase,26.8
+20,10,visual description,2.0
+378,42,particular case,9.0
+2174,1,support vector machine,2174.0
+142,9,recherche,15.77777777777778
+192,3,topic information,64.0
+6,3,person interaction,2.0
+182,6,standard technique,30.33333333333333
+3,1,kinect data,3.0
+274,1,course relation,274.0
+1599,1,lexical information,1599.0
+35,1,necessary data,35.0
+25,2,source version,12.5
+7,2,shimon,3.5
+135,14,brief discussion,9.642857142857142
+5,1,unbiased comparison,5.0
+626,112,single character,5.589285714285714
+273,45,particular topic,6.066666666666666
+401,1,maximum likelihood estimation,401.0
+401,2,particular language,200.5
+139,1,analysis model,139.0
+627,53,simple example,11.83018867924528
+14,1,model difference,14.0
+24,1,query syntax,24.0
+54338,127,annotation,427.8582677165354
+1188,2,linguistic theory,594.0
+9,2,dynamic setting,4.5
+23004,9268,speaker,2.482088908070781
+193,33,tagalog,5.848484848484849
+108,6,intentionality,18.0
+254,2,german sentence,127.0
+24,1,authoritativeness,24.0
+1859,1,maximum likelihood,1859.0
+39,2,specific sequence,19.5
+941,60,pinyin,15.68333333333333
+869,2,text analysis,434.5
+12,3,pdb,4.0
+164,20,connectedness,8.2
+122,5,sampling technique,24.4
+14,3,english poetry,4.666666666666667
+19,3,post message,6.333333333333333
+82,1,dialog turn,82.0
+266,3,pattern match,88.66666666666667
+22,12,trivial matter,1.833333333333333
+85,39,medical information,2.179487179487179
+21,1,third parameter,21.0
+410,10,boldface,41.0
+617,5,learning problem,123.4
+33,1,iim,33.0
+2888,14,proper noun,206.2857142857143
+11487,21,ontology,547.0
+50959,2048,category,24.88232421875
+18,3,training topic,6.0
+6,1,background colour,6.0
+12,5,map information,2.4
+87,1,alignment strategy,87.0
+29,8,application example,3.625
+7,1,predefined text,7.0
+98,1,alignment procedure,98.0
+5,1,course selection,5.0
+60,9,syllogism,6.666666666666667
+184,1,alignment tool,184.0
+184,1,european chapter,184.0
+28,1,complex sentence structure,28.0
+30,13,budget constraint,2.307692307692307
+353,2,learning procedure,176.5
+244,3,similar method,81.33333333333333
+114,22,text size,5.181818181818182
+159,2,exact test,79.5
+21,2,configurability,10.5
+257,1,model structure,257.0
+56,9,mouse cursor,6.222222222222222
+146,1,processing phase,146.0
+70528,142,noun,496.6760563380282
+58,23,different example,2.521739130434783
+612,1,optimality,612.0
+2,1,available approximation,2.0
+2,1,patient feeling,2.0
+631,13,different task,48.53846153846154
+344,3,base system,114.6666666666667
+12079,1112,complexity,10.86241007194245
+114,3,empirical approach,38.0
+34,7,cognitive ability,4.857142857142857
+821,12,average length,68.41666666666667
+294,5,new phrase,58.8
+74,2,basic expression,37.0
+444,2,global context,222.0
+644,2,unl,322.0
+1087,8,estimator,135.875
+1164,4,precondition,291.0
+64,1,same graph,64.0
+6,3,additional person,2.0
+38,1,dictionary approach,38.0
+20,12,structuralism,1.666666666666667
+6,2,single customer,3.0
+285,1,same data set,285.0
+63,1,problem definition,63.0
+313,11,respondent,28.45454545454545
+6,1,bibliographical data,6.0
+43,4,feedback mechanism,10.75
+860,1,distance measure,860.0
+12912,269,wikipedia,48.0
+454,1,available data,454.0
+171,10,questioner,17.1
+1408,39,attribution,36.1025641025641
+3,2,orderliness,1.5
+33,5,search mode,6.6
+116,6,significant progress,19.33333333333333
+55,2,request information,27.5
+57,34,whole class,1.676470588235294
+33,1,vocabulary selection,33.0
+77,2,actual sentence,38.5
+45,1,weightage,45.0
+4841,49,approximation,98.79591836734694
+51,1,systemic functional linguistics,51.0
+136,1,erroneous word,136.0
+49,11,relevant example,4.454545454545454
+88,2,memory cell,44.0
+222,54,specific problem,4.111111111111111
+108,3,character position,36.0
+540,1,japanese sentence,540.0
+119,8,literal interpretation,14.875
+47,1,general applicability,47.0
+24,1,appropriate annotation,24.0
+368,140,currency,2.628571428571429
+34,1,functional level,34.0
+127,8,biological process,15.875
+444,1,test example,444.0
+26,1,data issue,26.0
+15,1,causal inference,15.0
+270,2,match score,135.0
+85,31,useful way,2.741935483870968
+23905,8306,addition,2.878039971105225
+281,1,sense label,281.0
+32,4,target child,8.0
+1006,372,owl,2.704301075268817
+69,6,meaningfulness,11.5
+4,1,requirement information,4.0
+27,5,new activation,5.4
+10,1,story analysis,10.0
+32,1,honorific form,32.0
+6,2,architecture diagram,3.0
+22,2,stimulus response,11.0
+9,1,full professor,9.0
+965,632,copyright,1.526898734177215
+91,1,particular object,91.0
+91,3,simple structure,30.33333333333333
+18413,39,semantics,472.1282051282051
+273,2,current context,136.5
+29865,2814,dictionary,10.61300639658849
+8,2,seinem,4.0
+240,67,new technique,3.582089552238806
+426,12,acm,35.5
+159,1,possible approach,159.0
+80,1,human cognition,80.0
+38,22,original research,1.727272727272727
+9,1,system suggestion,9.0
+48,1,speech communication,48.0
+3327,1379,www,2.412617839013778
+97,1,relational model,97.0
+233,7,xpath,33.28571428571428
+55,1,vocabulary learning,55.0
+46,25,previous character,1.84
+19,1,specific grammar rule,19.0
+5,1,implicit acknowledgement,5.0
+18,4,proper definition,4.5
+40,3,specific implementation,13.33333333333333
+29,1,taxonomic relationship,29.0
+2108,1,development data,2108.0
+34,3,interop,11.33333333333333
+7355,7,negation,1050.714285714286
+585,10,alternative approach,58.5
+24,2,overall coherence,12.0
+6,3,coherent view,2.0
+2656,6,annotating,442.6666666666667
+966,1,baseline method,966.0
+605,41,simple sentence,14.75609756097561
+4,2,audio feedback,2.0
+17,1,example approach,17.0
+93,2,standard grammar,46.5
+46,2,style analysis,23.0
+999,75,different method,13.32
+12,1,sequential method,12.0
+2,1,site youtube,2.0
+5,3,appropriate tone,1.666666666666667
+159,3,biomedicine,53.0
+52,4,chinese poetry,13.0
+192,42,word processing,4.571428571428571
+90,3,tuning method,30.0
+54,2,empirical basis,27.0
+3,1,intuitive structure,3.0
+1790,602,division,2.973421926910299
+30,2,logical statement,15.0
+2,1,principle algorithm,2.0
+12162,165,paraphrase,73.7090909090909
+25,4,s01,6.25
+481,4,single model,120.25
+42,2,simple syntax,21.0
+165,21,nicht,7.857142857142857
+98,18,ann arbor,5.444444444444445
+51,3,phonetic transliteration,17.0
+21,3,functionalism,7.0
+11820,698,equation,16.93409742120344
+13,1,third index,13.0
+7,2,chiang mai,3.5
+333,1,case role,333.0
+52,4,compression algorithm,13.0
+1746,230,next step,7.591304347826087
+284,1,automatic detection,284.0
+3175,1,search space,3175.0
+74,6,thai language,12.33333333333333
+68,7,basic framework,9.714285714285714
+3539,109,single word,32.46788990825688
+915,380,grammatical error,2.407894736842105
+7,3,marriage certificate,2.333333333333333
+458,3,different sentence,152.6666666666667
+2588,1,word class,2588.0
+33342,6422,technique,5.191840548115851
+65,1,hypothesis set,65.0
+344,12,xml file,28.66666666666667
+257,2,american journal,128.5
+8649,650,default,13.30615384615385
+1537,535,different kind,2.872897196261682
+78,8,distinctiveness,9.75
+10,1,call data,10.0
+246,1,user behavior,246.0
+53,2,first list,26.5
+3,1,interface functionality,3.0
+256,12,information theory,21.33333333333333
+18,1,table structure,18.0
+698,1,trigger word,698.0
+844,12,outlier,70.33333333333333
+468,4,final output,117.0
+100,12,particular event,8.333333333333334
+123,1,length model,123.0
+23,4,performance enhancement,5.75
+5,3,suitable description,1.666666666666667
+43,23,useful technique,1.869565217391304
+98,2,doha,49.0
+41,3,different methodology,13.66666666666667
+15,1,theoretical concern,15.0
+9758,58,reordering,168.2413793103448
+77,7,efficient manner,11.0
+4600,622,guideline,7.395498392282958
+5,1,phrase stress,5.0
+196,4,common sense knowledge,49.0
+24,1,contextual structure,24.0
+123,1,document text,123.0
+4,1,hindi vocabulary,4.0
+454,5,majority vote,90.8
+38253,411,graph,93.07299270072993
+108,5,single concept,21.6
+421,21,new text,20.04761904761905
+82922,2345,context,35.36119402985074
+4,1,online competition,4.0
+192,1,speech production,192.0
+159,3,genre classification,53.0
+325,5,decision process,65.0
+39,1,formal writing,39.0
+175,8,model fit,21.875
+260,1,evaluation procedure,260.0
+2,1,property evaluation,2.0
+7,1,standard written english,7.0
+16,3,coherent paragraph,5.333333333333333
+44,5,standard topic,8.8
+4,1,clear expectation,4.0
+68,8,new function,8.5
+39,1,oriented perspective,39.0
+134,1,case grammar,134.0
+3,2,specific measurement,1.5
+316,4,particular task,79.0
+3,2,kaolin,1.5
+1594,9,parallel text,177.1111111111111
+1314,31,search result,42.38709677419355
+173,86,gemini,2.011627906976744
+254,37,pattern recognition,6.864864864864865
+364,9,search process,40.44444444444444
+269,1,lookup table,269.0
+2978,2,probability distribution,1489.0
+1436,156,clarification,9.205128205128204
+584,32,cognition,18.25
+72,1,right argument,72.0
+45,4,preterite,11.25
+1604,8,system performance,200.5
+59,2,list feature,29.5
+207,1,positive polarity,207.0
+76,3,first module,25.33333333333333
+22,9,human genome,2.444444444444445
+53,1,word chain,53.0
+36,7,video sequence,5.142857142857143
+7,4,use run,1.75
+49,2,theoretical study,24.5
+440,3,fixed number,146.6666666666667
+26,11,user interface design,2.363636363636364
+27,6,influential work,4.5
+248,3,iterating,82.66666666666667
+4,1,process overview,4.0
+147,11,line model,13.36363636363636
+1163,336,diagnosis,3.461309523809524
+17982,14,data set,1284.428571428571
+14,1,meaningful interpretation,14.0
+288,9,medical text,32.0
+175,96,depth analysis,1.822916666666667
+11,1,limited feature set,11.0
+198,2,homomorphism,99.0
+136,1,effect size,136.0
+11,1,biomolecules,11.0
+1001,15,zhu,66.73333333333333
+30,7,cuneiform,4.285714285714286
+23,1,traditional analysis,23.0
+58,4,sentence beginning,14.5
+17256,7803,purpose,2.211457131872357
+97,14,comprehensive set,6.928571428571429
+121,21,problem solver,5.761904761904762
+22,1,implementation language,22.0
+3,1,web service implementation,3.0
+102,3,current user,34.0
+1614,1,domain knowledge,1614.0
+58,6,language material,9.666666666666666
+297,11,ici,27.0
+23,2,type concept,11.5
+54,4,simultaneity,13.5
+13,1,constructive solution,13.0
+147,5,basic method,29.4
+47,1,diagnostic evaluation,47.0
+722,50,news story,14.44
+433,92,same concept,4.706521739130435
+218,1,different representation,218.0
+10,1,page level,10.0
+362,16,empirical evidence,22.625
+48,4,german system,12.0
+1519,1,sures,1519.0
+137,9,xml schema,15.22222222222222
+1645,1,centroid,1645.0
+16,1,cognitive activity,16.0
+10,1,polynomial approximation,10.0
+234,1,theoretical linguistics,234.0
+84,11,available source,7.636363636363637
+24,5,psychological point,4.8
+61,3,subjective information,20.33333333333333
+2333,65,data structure,35.89230769230769
+63,1,usage frequency,63.0
+710,24,current system,29.58333333333333
+361,4,similar performance,90.25
+9,2,suitable solution,4.5
+82,1,word sample,82.0
+719,1,recognition error,719.0
+62,13,certain length,4.769230769230769
+31,11,regular text,2.818181818181818
+30,1,german learner,30.0
+3,1,input piece,3.0
+268,3,chain rule,89.33333333333333
+355,8,literal meaning,44.375
