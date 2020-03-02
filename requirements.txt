@@ -104,7 +104,7 @@ python-dateutil==2.7.3
 python-slugify==1.2.6
 pytz==2018.5
 PyWavelets==1.0.2
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 qtconsole==4.5.1
 rake-nltk==1.0.4
