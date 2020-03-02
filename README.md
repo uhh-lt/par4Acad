@@ -49,3 +49,16 @@ We have trained a few [classfiers](IWI.ipynb) provided by scikit-learn with the 
 ## Paraphrase Ranking Model
 
 In order to rank the best candidates for academic rewriting, we have followed the learning to rank approach where the candidates are ranked baed on relevance score. The number of annotators selecting the given candidate is considered as the relevance score. The deep learning model provided by [tensorflow/ranking](https://github.com/tensorflow/ranking) is used o build the paraphrase ranking model.
+
+If you use the method please cite the following paper:
+
+```
+@InProceedings{yimametallrec2020,
+  author    = {Seid Muhie Yimam and Gopalakrishnan Venkatesh and John Sie Yuen Lee and Chris Biemann },
+  title     = {Automatic Compilation of  Resources for Academic Writing and Evaluating with Informal Word Identification and Paraphrasing System},
+  booktitle = {Proceedings of LREC 2020, Twelfth International Conference on Language Resources and Evaluation},
+  year      = {2020},
+  address   = {Marseille, France},
+  pages     = {toapear}
+}
+```
