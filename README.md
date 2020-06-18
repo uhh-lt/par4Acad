@@ -59,6 +59,6 @@ If you use these resources and methods, please cite the following paper:
   booktitle = {Proceedings of LREC 2020, Twelfth International Conference on Language Resources and Evaluation},
   year      = {2020},
   address   = {Marseille, France},
-  pages     = {toapear}
+  pages     = {5896--5904}
 }
 ```
