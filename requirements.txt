@@ -21,7 +21,7 @@ cryptography==2.6.1
 cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.7
-dask==1.1.4
+dask==2021.10.0
 decorator==4.3.0
 defusedxml==0.6.0
 dlib==19.17.0
