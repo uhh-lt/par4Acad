@@ -75,7 +75,7 @@ neovim==0.2.6
 networkx==1.8.1
 nltk==3.4.1
 notebook==5.7.8
-numpy==1.14.3
+numpy==1.22.0
 opencv-contrib-python==3.4.2.16
 opencv-python==3.4.2.16
 openpyxl==2.6.2
