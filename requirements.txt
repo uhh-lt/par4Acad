@@ -62,7 +62,7 @@ kiwisolver==1.0.1
 langdetect==1.0.7
 Levenshtein-search==1.4.4
 lightgbm==2.2.2
-lxml==4.3.0
+lxml==4.9.1
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.0
